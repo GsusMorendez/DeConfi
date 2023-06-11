@@ -263,6 +263,24 @@ const productsJson = [
         price: "3.099,00€",
         link: "https://www.amazon.es/Apple-2023-MacBook-n%25C3%25BAcleos-diecinueve/dp/B0BSJ37QQ4/ref=sr_1_7?crid=R9GSKIHSKVF&amp;keywords=macbook+pro+i9&amp;qid=1686504451&amp;sprefix=macbook+pro+i%252Caps%252C110&amp;sr=8-7&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=6f41c486bcb8b641e951f0132cbff7c4&camp=3638&creative=24630",
         category: "tecnologia"
+    },
+    {
+        id: 16,
+        image: "https://m.media-amazon.com/images/I/61BlEJTAuJL._AC_SX679_.jpg",
+        title: "Congelador vertical independiente CHiQ, 145L de capacidad, congelación rápida, termostato ajustable, silencioso, puerta reversible, negro, clasificación energética E",
+        description: [
+            "Si estás buscando un congelador vertical independiente con una capacidad razonable, el CHiQ de 145L es una buena opción. Este congelador tiene la capacidad suficiente para guardar alimentos congelados para una familia pequeña o para alguien que vive solo. Además, su tamaño compacto lo hace ideal para apartamentos o casas con espacio limitado.",
+            "La congelación rápida es una característica importante en cualquier congelador. El CHiQ tiene la capacidad de congelar rápidamente los alimentos, lo que es ideal para mantener la frescura y la calidad de los alimentos congelados. También es útil cuando necesitas congelar alimentos rápidamente para evitar que se echen a perder.",
+            "El termostato ajustable es una característica clave que te permite ajustar la temperatura del congelador. Esto te permite mantener tus alimentos congelados a la temperatura adecuada y evitar que se descongelen o se congelen en exceso. Además, si necesitas ajustar la temperatura para adaptarse a tus necesidades específicas, puedes hacerlo fácilmente.",
+            "El CHiQ es un congelador silencioso, lo que es ideal si tienes un espacio de vida pequeño o si necesitas tenerlo cerca de las áreas de vida. Este congelador no emitirá un ruido fuerte que pueda molestar a las personas en la habitación o en la casa. Además, su funcionamiento silencioso es ideal para aquellos que prefieren un entorno tranquilo.",
+            "La puerta reversible es una característica útil que te permite colocar el congelador en cualquier lugar de tu casa. Puedes abrir la puerta desde la derecha o la izquierda, lo que te permite adaptar el congelador a tus necesidades específicas. Además, si cambias la ubicación del congelador en el futuro, podrás cambiar la dirección de la puerta sin problemas.",
+            "El CHiQ viene en un elegante color negro que se adapta a cualquier decoración de la casa. Este congelador es una adición elegante a cualquier hogar y su diseño moderno y elegante se adaptará a cualquier estilo de decoración. Además, el color negro es fácil de mantener y no se ensucia fácilmente.",
+            "El CHiQ tiene una clasificación energética E, lo que significa que es un congelador eficiente en términos de energía. Esto es importante porque ayuda a reducir tus facturas de energía y a minimizar tu impacto en el medio ambiente. Si buscas un congelador que sea eficiente en términos de energía, el CHiQ es una buena opción.",
+            "En resumen, el CHiQ es un congelador vertical independiente con una capacidad de 145L, congelación rápida, termostato ajustable, silencioso, puerta reversible, clasificación energética E y un diseño elegante en color negro. Es una buena opción para aquellos que buscan un congelador compacto que sea eficiente en términos de energía y que se adapte a cualquier estilo de decoración."
+        ],
+        price: "359,99€",
+        link: "https://www.amazon.es/dp/B0C28CD3BR?ref_=cm_sw_r_apan_dp_5S88N0S68KV7XB7V9P3S&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=b8ac56d78bd17072360cc80e9bea912f&camp=3638&creative=24630",
+        category: "hogar"
     }
     // Agrega más productos aquí
 ];
