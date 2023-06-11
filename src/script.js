@@ -18,12 +18,12 @@ const productsJson = [
             "Nah no podemos desvelártelo, está chulo y si eres un frikazo como nosotros tendrás que pillarlo para saber todos los detalles y ver en que citación se queda la cosa después de este primer libro."
         ],
         price: "8,54€  Kindle/ 19,90€  tapa blanda",
-        link: "https://www.amazon.es/Guerra-Solar-Warhammer-Horus-Heresy/dp/8445015087/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=17NK1FVFW1LNH&keywords=La+Guerra+Solar+n%C2%BA+02&qid=1686484559&sprefix=la+guerra+solar+n%C2%BA+02%2Caps%2C142&sr=8-1",
+        link: "https://www.amazon.es/Guerra-Solar-Warhammer-Horus-Heresy/dp/8445015087/ref=sr_1_1?__mk_es_ES=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=17NK1FVFW1LNH&amp;keywords=La+Guerra+Solar+n%25C2%25BA+02&amp;qid=1686484559&amp;sprefix=la+guerra+solar+n%25C2%25BA+02%252Caps%252C142&amp;sr=8-1&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=201679a94812c1489d2389e818419138&camp=3638&creative=24630",
         category: "libros"
     },
     {
         id: 1,
-        image: "https://m.media-amazon.com/images/I/41U6ZKs3MHL.__AC_SX300_SY300_QL70_ML2_.jpg",
+        image: "https://m.media-amazon.com/images/I/41r3gfH9OlL._AC_SX679_.jpg",
         title: "Dyson v8 absolute - Aspiradora Sin Cable",
         description: [
             "Hace un par de meses un compi del equipo se pilló este pedazo aspirador, la verdad es que nunca me había hecho ilusión probar una aspiradora hasta ahora!, mi madre debe estar muy contenta en este momento la verdad jajaja",
@@ -34,7 +34,7 @@ const productsJson = [
             "En cuanto al precio reconocemos que no es para todos, pero desde luego si te encanta la limpieza y quieres estar seguro de haber aspirado hasta el último ácaro, esta es tu herramienta!!"
         ],
         price: "459,00€",
-        link: "https://www.amazon.es/Dyson-Absolute-Aspiradora-Funciones-Decibeles/dp/B073ZL5VDK/ref=sr_1_5?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2BNUQESDMMV3V&keywords=Dyson+v8+absolute+-+Aspiradora+Sin+Cable&qid=1686492715&sprefix=dyson+v8+absolute+-+aspiradora+sin+cable%2Caps%2C311&sr=8-5&ufe=app_do%3Aamzn1.fos.5e544547-1f8e-4072-8c08-ed563e39fc7d",
+        link: "https://www.amazon.es/Dyson-Absolute-Aspiradora-Funciones-Decibeles/dp/B073ZL5VDK/ref=sr_1_5?__mk_es_ES=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=2BNUQESDMMV3V&amp;keywords=Dyson+v8+absolute+-+Aspiradora+Sin+Cable&amp;qid=1686492715&amp;sprefix=dyson+v8+absolute+-+aspiradora+sin+cable%252Caps%252C311&amp;sr=8-5&amp;ufe=app_do%253Aamzn1.fos.5e544547-1f8e-4072-8c08-ed563e39fc7d&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=77c3df06f52abd3f271c8865449421d1&camp=3638&creative=24630",
         category: "hogar"
     },
     {
@@ -48,7 +48,7 @@ const productsJson = [
             "En definitiva es un buen producto que le dará ese extra de limpieza a tu casa, eso si no le pongas obstáculos que se te engancha jajaja limpia guay no es muy cara y en un año ya la has rentabilizado, nosotros tenemos un par en casa y funcionan"
         ],
         price: "194,00€",
-        link: "https://www.amazon.es/Xiaomi-Vacuum-Cleaner-BHR5217EU-42621/dp/B09R9XWJVS/ref=sr_1_2_mod_primary_new?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2LHSMGN6WNZDC&keywords=Xiaomi+Vacuum+Cleaner+Mi+Robot+Mop+2+Lite&qid=1686492601&sprefix=xiaomi+vacuum+cleaner+mi+robot+mop+2+lite%2Caps%2C185&sr=8-2",
+        link: "https://www.amazon.es/Xiaomi-Vacuum-Cleaner-BHR5217EU-42621/dp/B09R9XWJVS/ref=sr_1_2_mod_primary_new?__mk_es_ES=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=2LHSMGN6WNZDC&amp;keywords=Xiaomi+Vacuum+Cleaner+Mi+Robot+Mop+2+Lite&amp;qid=1686492601&amp;sprefix=xiaomi+vacuum+cleaner+mi+robot+mop+2+lite%252Caps%252C185&amp;sr=8-2&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=2ba1bf7f6587ed4e497ef1b0762d1b8c&camp=3638&creative=24630",
         category: "hogar"
     },
     {
@@ -63,7 +63,7 @@ const productsJson = [
             'En resumen, la Krups Nespresso Rojo Inissia es una excelente opción para aquellos amantes del café que buscan una máquina compacta, fácil de usar y con una excelente calidad de extracción. Con una amplia variedad de cápsulas Nespresso disponibles, podrás disfrutar de una taza de café perfecta en cualquier momento del dí'
         ],
         price: "96,26€",
-        link: "https://www.amazon.es/Krups-Nespresso-YY1531FD-Independiente-c%C3%A1psulas/dp/B00IRWKB70/ref=psdc_599392031_t3_B00G5YOVZA",
+        link: "https://www.amazon.es/Krups-Nespresso-YY1531FD-Independiente-c%25C3%25A1psulas/dp/B00IRWKB70/ref=psdc_599392031_t3_B00G5YOVZA?&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=c4f240009fd2239eae54a7ddb0be1aeb&camp=3638&creative=24630",
         category: "hogar"
     },
     {
@@ -92,7 +92,7 @@ const productsJson = [
 
         ],
         price: "32,95€",
-        link: "https://www.amazon.es/Incapto-Coffee-Risaralda-Sudamericano-Equilibrado/dp/B08J3S5ZRB/ref=sr_1_2_sspa?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=24KTL6T3HZ0AP&keywords=cafe+en+grano&qid=1686499693&rdc=1&sprefix=cafe+en+grano%2Caps%2C140&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1",
+        link: "https://www.amazon.es/STARBUCKS-Nespresso-Variety-Tubos-C%25C3%25A1psulas/dp/B07X63LDTR/ref=sr_1_8?keywords=capsulas+nespresso&amp;qid=1686499444&amp;rdc=1&amp;sr=8-8&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=0da7263911f929ca5d7e20c92f8a1aae&camp=3638&creative=24630",
         category: "hogar"
     },
     {
@@ -124,7 +124,7 @@ const productsJson = [
             "En conclusión, El guardián entre el centeno es una novela que ha dejado una huella duradera en la literatura estadounidense y en la cultura popular en general. Su protagonista, Holden Caulfield, es un personaje icónico que ha resonado con generaciones de adolescentes. La novela es una crítica a la sociedad y la cultura de la época, y explora temas como la soledad, la alienación y la identidad. La habilidad de Salinger para capturar la voz y el tono de un adolescente es asombrosa y hace que la novela sea una lectura obligatoria para cualquier persona interesada en la literatura contemporánea."
         ],
         price: "29,03€ tapa dura/ 12,90€ tapa blanda",
-        link: "https://www.amazon.es/guardi%C3%A1n-entre-centeno-Libro-Bolsillo/dp/842066085X/ref=sr_1_3?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1RJBBFP4BCV0W&keywords=El+guardi%C3%A1n+entre+el+centeno%2C+de+J.D.+Salinger&qid=1686500977&sprefix=el+guardi%C3%A1n+entre+el+centeno+de+j.d.+salinger%2Caps%2C235&sr=8-3",
+        link: "https://www.amazon.es/Guerra-Solar-Warhammer-Horus-Heresy/dp/8445015087/ref=sr_1_1?__mk_es_ES=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=17NK1FVFW1LNH&amp;keywords=La+Guerra+Solar+n%25C2%25BA+02&amp;qid=1686484559&amp;sprefix=la+guerra+solar+n%25C2%25BA+02%252Caps%252C142&amp;sr=8-1&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=201679a94812c1489d2389e818419138&camp=3638&creative=24630",
         category: "libros"
     },
     {
