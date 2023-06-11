@@ -458,7 +458,7 @@ function showDetails(id) {
 
     productsContainer.innerHTML = `    
         <div class="col-12 text-center">
-            <img src="${productsJson[id].image}" class="article-image card-img img-fluid"  alt="..." style="object-fit: cover; height: 100%;"alt="Imagen del producto">
+            <img src="${productsJson[id].image}" class="article-image card-img img-fluid"  alt="..." style="object-fit: cover; max-width: 35%; height: 80%;"alt="Imagen del producto">
         </div>
         <div class="col-12 text-center" style="margin-bottom: 20px;margin-top: 20px">
             <h3>${productsJson[id].title}</h3>
@@ -502,14 +502,8 @@ function displayAboutUs() {
     <h1>Política de Privacidad</h1>
     <p style="text-align: justify">En nuestro sitio web, valoramos y respetamos tu privacidad. Nos comprometemos a proteger la información personal que compartas con nosotros. Este sitio web es de solo lectura y no recopila cookies ni realiza seguimiento de ningún tipo. No almacenamos ni compartimos tu información personal con terceros sin tu consentimiento expreso.</p>
     <p style="text-align: justify">Al utilizar este sitio web, aceptas nuestras condiciones de uso y política de privacidad.</p>
-
-
 `;
 
     productsContainer.appendChild(newDiv);
 }
 
-function displayPrivacyPolicy() {
-
-
-}
