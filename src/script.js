@@ -459,7 +459,7 @@ function showDetails(id) {
 
     productsContainer.innerHTML = `    
         <div class="col-12 text-center">
-            <img src="${productsJson[id].image}" class="article-image" alt="Imagen del producto">
+            <img src="${productsJson[id].image}" class="article-image card-img img-fluid"  alt="..." style="object-fit: cover; height: 100%;"alt="Imagen del producto">
         </div>
         <div class="col-12 text-center" style="margin-bottom: 20px;margin-top: 20px">
             <h3>${productsJson[id].title}</h3>
