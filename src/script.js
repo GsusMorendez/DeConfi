@@ -73,10 +73,9 @@ const productsJson = [
         description: [
             "El Krups Nespresso Rojo Inissia es una máquina de café compacta, fácil de usar y de alta calidad que produce café delicioso con una crema suave y aterciopelada. Su diseño elegante y moderno lo hace una adición atractiva a cualquier cocina. La máquina se calienta rápidamente y es fácil de limpiar, lo que la convierte en una excelente opción para quienes tienen una vida ocupada pero no quieren sacrificar la calidad del café.",
             "El paquete de variedades de Starbucks es una excelente opción para los amantes del café que desean una experiencia de café de alta calidad con una variedad de opciones deliciosas. El paquete contiene 8 sabores diferentes de cápsulas Nespresso, cada uno con su propia intensidad y perfil de sabor. Las cápsulas están hechas de aluminio para garantizar la frescura y son completamente reciclables a través del programa de reciclaje de Nespresso. En general, el paquete de variedades de Starbucks es una excelente opción para aquellos que desean experimentar con diferentes sabores de café sin comprometer la calidad o la frescura."
-
         ],
         price: "28,73€",
-        link: "https://www.amazon.es/STARBUCKS-Nespresso-Variety-Tubos-C%C3%A1psulas/dp/B07X63LDTR/ref=sr_1_8?keywords=capsulas+nespresso&qid=1686499444&rdc=1&sr=8-8",
+        link: "https://www.amazon.es/STARBUCKS-Nespresso-Variety-Tubos-C%25C3%25A1psulas/dp/B07X63LDTR/ref=sr_1_8?keywords=capsulas+nespresso&amp;qid=1686499444&amp;rdc=1&amp;sr=8-8&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=79a5d8ca4e46917919c92f2ef85a85ee&camp=3638&creative=24630",
         category: "hogar"
     },
     {
@@ -92,7 +91,7 @@ const productsJson = [
 
         ],
         price: "32,95€",
-        link: "https://www.amazon.es/STARBUCKS-Nespresso-Variety-Tubos-C%25C3%25A1psulas/dp/B07X63LDTR/ref=sr_1_8?keywords=capsulas+nespresso&amp;qid=1686499444&amp;rdc=1&amp;sr=8-8&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=0da7263911f929ca5d7e20c92f8a1aae&camp=3638&creative=24630",
+        link: "https://www.amazon.es/STARBUCKS-Nespresso-Variety-Tubos-C%2525C3%2525A1psulas/dp/B07X63LDTR/ref=sr_1_8?keywords=capsulas+nespresso&amp;qid=1686499444&amp;rdc=1&amp;sr=8-8&amp;_encoding=UTF8&amp;tag=deconfi-21&amp;linkCode=ur2&amp;linkId=0da7263911f929ca5d7e20c92f8a1aae&amp;camp=3638&amp;creative=24630&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=212bf4c5a32fcefd44c99c8d6925d57f&camp=3638&creative=24630",
         category: "hogar"
     },
     {
@@ -108,7 +107,7 @@ const productsJson = [
             "En cuanto a las desventajas, podemos mencionar que la botella no es térmica, lo que significa que no se puede mantener la bebida fría o caliente por mucho tiempo. Además, el precio puede ser un poco elevado en comparación con otras opciones en el mercado."
         ],
         price: "29,99€",
-        link: "https://www.amazon.es/Duronic-BL510-el%C3%A9ctrica-capacidad-smoothies/dp/B0BG662VQ3/ref=sr_1_6?crid=1J4GKGQOLZHPN&keywords=batidora+de+batidos&qid=1686500442&sprefix=batidora+de+batidos%2Caps%2C134&sr=8-6",
+        link: "https://www.amazon.es/Duronic-BL510-el%25C3%25A9ctrica-capacidad-smoothies/dp/B0BG662VQ3/ref=sr_1_6?crid=1J4GKGQOLZHPN&amp;keywords=batidora+de+batidos&amp;qid=1686500442&amp;sprefix=batidora+de+batidos%252Caps%252C134&amp;sr=8-6&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=01bbc8b6b6cb1016480189dfe21ab264&camp=3638&creative=24630",
         category: "hogar"
     },
     {
@@ -124,7 +123,7 @@ const productsJson = [
             "En conclusión, El guardián entre el centeno es una novela que ha dejado una huella duradera en la literatura estadounidense y en la cultura popular en general. Su protagonista, Holden Caulfield, es un personaje icónico que ha resonado con generaciones de adolescentes. La novela es una crítica a la sociedad y la cultura de la época, y explora temas como la soledad, la alienación y la identidad. La habilidad de Salinger para capturar la voz y el tono de un adolescente es asombrosa y hace que la novela sea una lectura obligatoria para cualquier persona interesada en la literatura contemporánea."
         ],
         price: "29,03€ tapa dura/ 12,90€ tapa blanda",
-        link: "https://www.amazon.es/Guerra-Solar-Warhammer-Horus-Heresy/dp/8445015087/ref=sr_1_1?__mk_es_ES=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=17NK1FVFW1LNH&amp;keywords=La+Guerra+Solar+n%25C2%25BA+02&amp;qid=1686484559&amp;sprefix=la+guerra+solar+n%25C2%25BA+02%252Caps%252C142&amp;sr=8-1&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=201679a94812c1489d2389e818419138&camp=3638&creative=24630",
+        link: "https://www.amazon.es/guardi%25C3%25A1n-entre-centeno-Libro-Bolsillo/dp/842066085X/ref=sr_1_2?keywords=el+guardian+entre+el+centeno&amp;qid=1686509096&amp;sprefix=el+guardian+en%252Caps%252C202&amp;sr=8-2&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=0e5194784b1b39d8b1655303b090b2cf&camp=3638&creative=24630",
         category: "libros"
     },
     {
@@ -139,7 +138,7 @@ const productsJson = [
             "En resumen, Los escarabajos vuelan al atardecer es una obra maestra de la literatura infantil y juvenil que combina misterio, fantasía y una reflexión profunda sobre la ciencia y el pasado. La prosa de María Gripe es poética y evocadora, y su habilidad para crear un ambiente inquietante y lleno de suspense es sorprendente. Si buscas un libro que te mantenga pegado a sus páginas y te haga reflexionar al mismo tiempo, Los escarabajos vuelan al atardecer es una excelente opción."
         ],
         price: "9,95€ tapa dura/ 11,97€ tapa blanda",
-        link: "https://www.amazon.es/escarabajos-vuelan-atardecer-Gran-Angular/dp/8491820574/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=NGG5KXBNWKUZ&keywords=Los+escarabajos+vuelan+al+atardecer%2C+de+Mar%C3%ADa+Gripe&qid=1686501208&sprefix=los+escarabajos+vuelan+al+atardecer+de+mar%C3%ADa+gripe%2Caps%2C281&sr=8-1",
+        link: "https://www.amazon.es/escarabajos-vuelan-atardecer-Gran-Angular/dp/8491820574/ref=sr_1_1?__mk_es_ES=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=NGG5KXBNWKUZ&amp;keywords=Los+escarabajos+vuelan+al+atardecer%252C+de+Mar%25C3%25ADa+Gripe&amp;qid=1686501208&amp;sprefix=los+escarabajos+vuelan+al+atardecer+de+mar%25C3%25ADa+gripe%252Caps%252C281&amp;sr=8-1&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=41b4b898a26ca8670cb542799ca90f80&camp=3638&creative=24630",
         category: "libros"
     },
     {
@@ -155,7 +154,7 @@ const productsJson = [
             "En definitiva, el Lazarillo de Tormes es una obra imprescindible para cualquier amante de la literatura. A través de la vida de su protagonista, el autor nos muestra la España del siglo XVI y nos hace reflexionar sobre temas universales como la justicia, la moralidad y la supervivencia en un mundo hostil. Una obra que seguirá inspirando a generaciones de lectores en el futuro."
         ],
         price: "4,27€ libro/ 23,39€ tapa dura",
-        link: "https://www.amazon.es/Lazarillo-tormes-Anonimo/dp/8415089201/ref=sr_1_9?keywords=el+lazarillo+de+tormes&qid=1686501931&sprefix=el+lazaril%2Caps%2C252&sr=8-9",
+        link: "https://www.amazon.es/Lazarillo-tormes-Anonimo/dp/8415089201/ref=sr_1_9?keywords=el+lazarillo+de+tormes&amp;qid=1686501931&amp;sprefix=el+lazaril%252Caps%252C252&amp;sr=8-9&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=23127004ed34f91176041a6f22f5ee3a&camp=3638&creative=24630",
         category: "libros"
     },
     {
@@ -173,7 +172,7 @@ const productsJson = [
             "En definitiva, Matilda es una novela que combina humor, fantasía y una profunda reflexión sobre la educación y el poder. Es un libro que ha logrado trascender generaciones y que sigue siendo relevante en la actualidad. Una obra maestra de Roald Dahl que merece ser leída por todos los amantes de la literatura infantil y juvenil."
         ],
         price: "6,99€ kindle/ 13,50€ tapa dura/ 6,01€ tapa blanda/ 10,37€ CD",
-        link: "https://www.amazon.es/Matilda-Dahl-Fiction-Roald/dp/0141365463/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HW1A1JNVZ1HU&keywords=7.+matilda+de+roald+dahl&qid=1686502072&sprefix=7.+matilda+de+roald+dahl%2Caps%2C138&sr=8-1",
+        link: "https://www.amazon.es/Matilda-Dahl-Fiction-Roald/dp/0141365463/ref=sr_1_1?__mk_es_ES=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=2HW1A1JNVZ1HU&amp;keywords=7.+matilda+de+roald+dahl&amp;qid=1686502072&amp;sprefix=7.+matilda+de+roald+dahl%252Caps%252C138&amp;sr=8-1&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=28521c462571e42198054b335447da0f&camp=3638&creative=24630",
         category: "libros"
     },
     {
@@ -191,7 +190,7 @@ const productsJson = [
             "En resumen, Nada de Carmen Laforet es una obra maestra de la literatura española, que explora temas universales como la supervivencia, la pobreza y la búsqueda de identidad. Laforét utiliza un estilo introspectivo y poético para contar la historia de Andrea y su lucha por sobrevivir en la España de la posguerra. La novela ha resistido el paso del tiempo y sigue siendo relevante hoy en día."
         ],
         price: "12,25€",
-        link: "https://www.amazon.es/Nada-Vintage-Editions-Carmen-Laforet/dp/1784876216/ref=sr_1_3?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=14YZXLZM91647&keywords=6.+nada+de+carmen+laforet&qid=1686502442&sprefix=6.+nada+de+carmen+laforet%2Caps%2C252&sr=8-3",
+        link: "https://www.amazon.es/Nada-Vintage-Editions-Carmen-Laforet/dp/1784876216/ref=sr_1_3?__mk_es_ES=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=14YZXLZM91647&amp;keywords=6.+nada+de+carmen+laforet&amp;qid=1686502442&amp;sprefix=6.+nada+de+carmen+laforet%252Caps%252C252&amp;sr=8-3&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=b8e4d414f3bacfef54b03e1fc0891bda&camp=3638&creative=24630",
         category: "libros"
     },
     {
@@ -208,7 +207,7 @@ const productsJson = [
             "En resumen, el vestido AUSELILY es una excelente opción para cualquier mujer que busque un vestido cómodo, elegante y práctico para el verano. Con su diseño sencillo y atemporal, este vestido es una excelente inversión para cualquier guardarropa de verano."
         ],
         price: "21,24€",
-        link: "https://www.amazon.es/AUSELILY-Vestidos-Tirantes-Decorativo-Bolsillos/dp/B09M2GXS77/ref=zg_bs_3074074031_sccl_2/262-6112303-3743124?psc=1",
+        link: "https://www.amazon.es/AUSELILY-Vestidos-Tirantes-Decorativo-Bolsillos/dp/B09M2GXS77/ref=zg_bs_3074074031_sccl_2/262-6112303-3743124?psc=1&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=c2c4024672fc062da3357d09b20fe6b3&camp=3638&creative=24630",
         category: "moda"
     },
     {
@@ -227,7 +226,7 @@ const productsJson = [
             "En resumen, el vestido Bbonlinedress corto para mujer retro de los años 50 con escote vintage es una elegante elección para cualquier mujer que busque un estilo vintage y elegante. Con su diseño moderno, materiales de alta calidad, escote vintage, longitud corta, prácticos bolsillos laterales, variedad de colores y tallas disponibles, y fácil cuidado y mantenimiento, este vestido es una opción práctica y elegante para cualquier ocasión."
         ],
         price: "42,99€",
-        link: "https://www.amazon.es/Bbonlinedress-Vestido-Vintage-Burgundy-XS/dp/B07CN7NPRS/ref=zg_bs_3074074031_sccl_11/262-6112303-3743124?psc=1",
+        link: "https://www.amazon.es/Bbonlinedress-Vestido-Vintage-Burgundy-XS/dp/B07CN7NPRS/ref=zg_bs_3074074031_sccl_11/262-6112303-3743124?psc=1&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=09cd17e97e01384aa66d4255fb7c5e7b&camp=3638&creative=24630",
         category: "moda"
     },
     {
@@ -245,7 +244,7 @@ const productsJson = [
             "En resumen, la Falda Elástica Bohemia de Verano es una prenda elegante y cómoda que es perfecta para el verano. Con su diseño bohemio, materiales de alta calidad y versatilidad, esta falda es una excelente elección para cualquier mujer que busque un estilo único y cómodo."
         ],
         price: "29,98€",
-        link: "https://www.amazon.es/Impresi%C3%B3n-Estilo-Bohemio-Mujeres-Ocasional/dp/B07J37267C/ref=sxin_16_slsr_d_i_fs4star_fa_1_B07J37267C?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&content-id=amzn1.sym.bc971328-4632-4459-9405-7857b4cf1e16%3Aamzn1.sym.bc971328-4632-4459-9405-7857b4cf1e16&crid=9G6ETS6KBPDK&cv_ct_cx=faldas&keywords=faldas&pd_rd_i=B07J37267C&pd_rd_r=7e332075-c93a-49e8-8412-1752eaca7841&pd_rd_w=jIXId&pd_rd_wg=E5Zpi&pf_rd_p=bc971328-4632-4459-9405-7857b4cf1e16&pf_rd_r=TC93GVSG716S1THV2YFE&qid=1686503451&sprefix=faldas%2Caps%2C166&sr=1-2-41e0d225-3819-4755-898e-7f0f48633b47",
+        link: "https://www.amazon.es/Impresi%25C3%25B3n-Estilo-Bohemio-Mujeres-Ocasional/dp/B07J37267C/ref=sxin_16_slsr_d_i_fs4star_fa_1_B07J37267C?__mk_es_ES=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;content-id=amzn1.sym.bc971328-4632-4459-9405-7857b4cf1e16%253Aamzn1.sym.bc971328-4632-4459-9405-7857b4cf1e16&amp;crid=9G6ETS6KBPDK&amp;cv_ct_cx=faldas&amp;keywords=faldas&amp;pd_rd_i=B07J37267C&amp;pd_rd_r=7e332075-c93a-49e8-8412-1752eaca7841&amp;pd_rd_w=jIXId&amp;pd_rd_wg=E5Zpi&amp;pf_rd_p=bc971328-4632-4459-9405-7857b4cf1e16&amp;pf_rd_r=TC93GVSG716S1THV2YFE&amp;qid=1686503451&amp;sprefix=faldas%252Caps%252C166&amp;sr=1-2-41e0d225-3819-4755-898e-7f0f48633b47&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=02122e58f3e722193f2173a739d76866&camp=3638&creative=24630",
         category: "moda"
     },
     {
@@ -262,7 +261,7 @@ const productsJson = [
             "En resumen, el MacBook Pro 2023 de Apple con Chip M2 Pro es una máquina de alta gama que ofrece un rendimiento excepcional para profesionales y usuarios avanzados. Con su potente CPU y GPU, su pantalla impresionante, su memoria unificada y su almacenamiento SSD, es una opción ideal para aquellos que necesitan un portátil potente y versátil. Con su diseño elegante y moderno, es una adición atractiva a cualquier entorno de trabajo."
         ],
         price: "3.099,00€",
-        link: "https://www.amazon.es/Apple-2023-MacBook-n%C3%BAcleos-diecinueve/dp/B0BSJ37QQ4/ref=sr_1_7?crid=R9GSKIHSKVF&keywords=macbook+pro+i9&qid=1686504451&sprefix=macbook+pro+i%2Caps%2C110&sr=8-7",
+        link: "https://www.amazon.es/Apple-2023-MacBook-n%25C3%25BAcleos-diecinueve/dp/B0BSJ37QQ4/ref=sr_1_7?crid=R9GSKIHSKVF&amp;keywords=macbook+pro+i9&amp;qid=1686504451&amp;sprefix=macbook+pro+i%252Caps%252C110&amp;sr=8-7&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=6f41c486bcb8b641e951f0132cbff7c4&camp=3638&creative=24630",
         category: "tecnologia"
     }
     // Agrega más productos aquí
