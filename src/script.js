@@ -281,6 +281,23 @@ const productsJson = [
         price: "359,99€",
         link: "https://www.amazon.es/dp/B0C28CD3BR?ref_=cm_sw_r_apan_dp_5S88N0S68KV7XB7V9P3S&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=b8ac56d78bd17072360cc80e9bea912f&camp=3638&creative=24630",
         category: "hogar"
+    },
+    {
+        id: 17,
+        image: "https://m.media-amazon.com/images/I/71uX2KKC0BL._AC_SX679_.jpg",
+        title: "Ariel Original Todo En Uno Pods, Detergente Lavadora Liquido en Capsulas/Pastillas, 43 Lavados, Jabon Con Mayor Eficacia en la Limpieza Ropa en Frio",
+        description: [
+            "El detergente Ariel Original Todo En Uno Pods es una excelente opción para aquellos que buscan una forma fácil y efectiva de lavar la ropa. Con 43 lavados en cada paquete, este detergente es una gran opción para hogares con una cantidad moderada de ropa.",
+            "Una de las mejores características de este detergente es que viene en cápsulas o pastillas, lo que significa que no hay necesidad de medir o verter el detergente. Simplemente coloque una cápsula en la lavadora y listo. Esto hace que el proceso de lavado de la ropa sea mucho más fácil y rápido.",
+            "Otra gran característica del detergente Ariel Original Todo En Uno Pods es que se puede utilizar en agua fría. Esto significa que no solo ahorrará energía al no tener que calentar el agua, sino que también mantendrá la ropa en mejores condiciones durante más tiempo. Además, este detergente es muy eficaz en la eliminación de manchas, incluso en agua fría.",
+            "Otra gran ventaja de este detergente es que es muy eficaz en la eliminación de olores. Si tiene ropa con un olor persistente, como ropa deportiva o ropa de trabajo, este detergente puede ayudar a eliminar esos olores, dejando la ropa fresca y limpia.",
+            "El detergente Ariel Original Todo En Uno Pods también es muy suave con la ropa. No contiene blanqueadores agresivos ni otros ingredientes que puedan dañar la ropa. Esto significa que puede utilizar este detergente con confianza en cualquier tipo de tela, desde algodón hasta seda",
+            "El paquete de 43 lavados también es muy conveniente. No tendrá que preocuparse por comprar detergente con tanta frecuencia y siempre tendrá suficiente detergente en mano para lavar su ropa.",
+            "En general, el detergente Ariel Original Todo En Uno Pods es una excelente opción para aquellos que buscan una forma fácil y eficaz de lavar la ropa. Con su capacidad para limpiar en agua fría, eliminar manchas y olores, y ser suave con la ropa, este detergente es una gran opción para cualquier hogar. Además, su conveniente paquete de 43 lavados significa que tendrá suficiente detergente para un buen tiempo."
+        ],
+        price: "16,38€",
+        link: "https://www.amazon.es/gp/product/B0BR8C69JR/ref=pd_alm_fs_merch_1_2_fs_dsk_na_mw_img_ES14748?fpw=alm&amp;almBrandId=QW1hem9uIEZyZXNo&amp;pf_rd_r=P1VWQH6WW9SE66DYA7PW&amp;pf_rd_p=c5e08dc1-5c7d-47ba-9f59-a2d3df90730a&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=8861913bbdc200c47260cbfdb9bfbaef&camp=3638&creative=24630",
+        category: "hogar"
     }
     // Agrega más productos aquí
 ];
