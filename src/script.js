@@ -298,7 +298,172 @@ const productsJson = [
         price: "16,38€",
         link: "https://www.amazon.es/gp/product/B0BR8C69JR/ref=pd_alm_fs_merch_1_2_fs_dsk_na_mw_img_ES14748?fpw=alm&amp;almBrandId=QW1hem9uIEZyZXNo&amp;pf_rd_r=P1VWQH6WW9SE66DYA7PW&amp;pf_rd_p=c5e08dc1-5c7d-47ba-9f59-a2d3df90730a&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=8861913bbdc200c47260cbfdb9bfbaef&camp=3638&creative=24630",
         category: "hogar"
+    },
+    {
+        id: 18,
+        image: "https://m.media-amazon.com/images/I/71uPVE8XqIL._AC_SY879_.jpg",
+        title: "Nestlé Aquarel - Botella Agua Mineral Natural - 5 L",
+        description: [
+            "Nestlé Aquarel es sinónimo de calidad y pureza en cada botella de agua mineral natural de 5 litros. Su presentación en una botella de plástico resistente, práctica y reutilizable la convierte en una opción ideal para satisfacer las necesidades de hidratación diaria en el hogar, la oficina o durante actividades al aire libre.",
+            "Lo que hace que Nestlé Aquarel destaque entre otras marcas de agua mineral es su origen. Proviene de fuentes naturales en lugares remotos y protegidos, garantizando así su pureza y frescura inigualables. Cada sorbo es una experiencia refrescante que te conecta con la naturaleza y te brinda una hidratación confiable y saludable.",
+            "La botella de 5 litros de Nestlé Aquarel ofrece una gran cantidad de agua para compartir y disfrutar en familia o con amigos. Su diseño ergonómico facilita su manejo y vertido sin derrames, mientras que su tapa de seguridad garantiza la integridad del agua y la conservación de su calidad durante más tiempo.",
+            "Una de las ventajas notables de Nestlé Aquarel es su sabor puro y cristalino. No presenta sabores artificiales ni añadidos, lo que permite disfrutar del auténtico sabor del agua mineral natural en cada sorbo. Es una opción ideal para aquellos que valoran la frescura y la autenticidad en sus bebidas.",
+            "La marca Nestlé se distingue por su compromiso con la sostenibilidad ambiental. La botella de plástico de Nestlé Aquarel está hecha de material reciclable y su producción está orientada a minimizar el impacto en el medio ambiente. De esta manera, puedes hidratarte con tranquilidad sabiendo que estás eligiendo una opción eco-friendly.",
+            "La comodidad es una característica esencial de Nestlé Aquarel. Su formato de 5 litros garantiza que no te quedarás sin agua en mucho tiempo, evitando la necesidad de comprar botellas más pequeñas con mayor frecuencia. Además, su fácil manejo y almacenamiento la convierten en una elección práctica y conveniente para el consumo diario.",
+            "Nestlé Aquarel es una opción segura y confiable, ya que cumple con los más altos estándares de calidad y seguridad alimentaria. La marca tiene un riguroso proceso de control de calidad desde la fuente hasta la botella, asegurando que cada botella de agua mineral natural esté libre de impurezas y sea segura para su consumo.",
+            "En resumen, Nestlé Aquarel es la elección perfecta para aquellos que buscan una hidratación natural y confiable. Su agua mineral de calidad, su sabor puro y su enfoque en la sostenibilidad ambiental la convierten en una opción superior. Disfruta de cada sorbo y siéntete bien sabiendo que estás cuidando tu salud y el planeta al elegir Nestlé Aquarel."
+        ],
+        price: "1,69€ (0,34€ / l)",
+        link: "https://www.amazon.es/dp/B005Y15IUC?ref_=cm_sw_r_apin_dp_BK7HPC4V6RRQ850AH6TH&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=3ec7b574dc4233eb445f3e985a2622c5&camp=3638&creative=24630",
+        category: "hogar"
+    },
+    {
+        id: 19,
+        image: "https://m.media-amazon.com/images/I/71cW8cOWzdL._AC_SY879_.jpg",
+        title: "Nestlé Aquarel Agua Mineral Natural, 6 x 1.5L",
+        description: [
+            "El paquete de 6 botellas de agua mineral natural Nestlé Aquarel de 1.5 litros cada una es una opción conveniente y práctica para aquellos que buscan una hidratación constante en su vida diaria. Nestlé Aquarel se destaca por su calidad y pureza, brindando un agua fresca y saludable que satisface las necesidades de hidratación de toda la familia.",
+            "Cada botella de Nestlé Aquarel proviene de fuentes naturales en lugares protegidos, lo que garantiza su pureza y frescura excepcionales. La marca Nestlé se enorgullece de ofrecer un agua mineral natural de alta calidad que cumple con los estándares más rigurosos, proporcionando una hidratación confiable y saludable en cada sorbo.",
+            "El formato de 1.5 litros de cada botella de Nestlé Aquarel es ideal para tener a mano en casa, en la oficina o para llevar durante actividades al aire libre. Su tamaño es lo suficientemente grande como para satisfacer las necesidades de hidratación de varios miembros de la familia o de un grupo de personas, pero también es lo suficientemente práctico para transportar y almacenar fácilmente.",
+            "Una de las características notables de Nestlé Aquarel es su sabor puro y refrescante. Esta agua mineral natural no contiene sabores artificiales ni aditivos, lo que permite disfrutar de su auténtico sabor en cada sorbo. Es una opción refrescante y saludable para aquellos que buscan hidratarse con un agua de calidad y sin comprometer su sabor.",
+            "Nestlé se preocupa por el medio ambiente, y el paquete de 6 botellas de Nestlé Aquarel de 1.5 litros refleja ese compromiso. Las botellas están hechas de plástico reciclable, lo que ayuda a reducir el impacto en el medio ambiente. Al elegir Nestlé Aquarel, estás optando por una opción sostenible que respalda la conservación de nuestros recursos naturales.",
+            "La practicidad es una ventaja clave del paquete de 6 botellas de Nestlé Aquarel. Al tener varias botellas a tu disposición, siempre tendrás agua fresca a mano sin necesidad de reabastecerte con frecuencia. Además, su tamaño de 1.5 litros es perfecto para llevar contigo durante el día o para compartir con amigos y familiares.",
+            "Nestlé Aquarel garantiza la calidad y seguridad de su agua mineral natural. Cada botella ha pasado por rigurosos controles de calidad para garantizar que esté libre de impurezas y sea segura para el consumo. Puedes confiar en la marca Nestlé y en su compromiso con la excelencia en cada botella de Nestlé Aquarel que disfrutes.",
+            "En resumen, el paquete de 6 botellas de Nestlé Aquarel de 1.5 litros cada una es una opción práctica y confiable para satisfacer tus necesidades de hidr"
+        ],
+        price: "3,54€ (0,39€ / l)",
+        link: "https://www.amazon.es/dp/B005Y15IKW?ref_=cm_sw_r_apin_dp_SBHPYFQM1KTAKJ47M2QH&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=30a4d956a5c3b9ab8209961ce03231eb&camp=3638&creative=24630",
+        category: "hogar"
+    },
+    {
+        id: 20,
+        image: "https://m.media-amazon.com/images/I/71fODetuuQL._AC_SX679_PIbundle-8,TopRight,0,0_SH20_.jpg",
+        title: "Activia Yogur 0%, Natural Edulcorado, 8 x 120g",
+        description: [
+            "El paquete de 8 yogures Activia 0% Natural Edulcorado de 120g cada uno es la elección perfecta para aquellos que buscan una opción saludable y sabrosa para su bienestar diario. Activia se destaca por su compromiso con la calidad y el sabor, brindando yogures deliciosos que son beneficiosos para tu cuerpo.",
+            "Cada yogur Activia 0% Natural Edulcorado es un verdadero placer para el paladar. Elaborado con ingredientes naturales y edulcorantes, ofrece una combinación equilibrada de textura cremosa y un sabor suave y agradable. Es la opción perfecta para aquellos que desean cuidar su salud sin renunciar al disfrute de un delicioso yogur.",
+            "El formato de 120g de cada yogur Activia 0% es práctico y conveniente. Puedes disfrutar de un yogur completo en cualquier momento del día, ya sea como desayuno, merienda o como parte de una comida saludable. Su tamaño portátil es perfecto para llevar contigo y disfrutar de un tentempié nutritivo en cualquier lugar.",
+            "Activia se enorgullece de ofrecer yogures bajos en grasa y sin azúcares añadidos. Cada yogur Activia 0% Natural Edulcorado es una opción saludable que te permite cuidar tu alimentación sin comprometer el sabor. Disfruta de su dulzura natural y su textura suave sin preocuparte por el exceso de calorías o azúcares.",
+            "La marca Activia se preocupa por el bienestar de sus consumidores y utiliza ingredientes de alta calidad en la elaboración de sus productos. Los yogures Activia 0% Natural Edulcorado son ricos en proteínas y contienen probióticos, que son beneficiosos para la salud digestiva. Con cada yogur, estás contribuyendo al equilibrio de tu flora intestinal.",
+            "La variedad de 8 yogures en un solo paquete te brinda la oportunidad de disfrutar de diferentes sabores y variaciones. Puedes elegir entre una amplia gama de opciones, desde yogur natural hasta combinaciones con frutas o cereales. Cada yogur es una experiencia única y deliciosa que te ayuda a mantener una dieta equilibrada.",
+            "Activia garantiza la calidad y frescura de sus yogures. Cada yogur Activia 0% es elaborado con procesos de control de calidad rigurosos, asegurando que obtengas un producto fresco y de alta calidad en cada envase. Puedes confiar en la marca Activia y en su compromiso con tu bienestar.",
+            "En resumen, el paquete de 8 yogures Activia 0% Natural Edulcorado de 120g cada uno es una opción saludable, sabrosa y conveniente para satisfacer tus necesidades de bienestar. Disfruta de la textura cremosa y el sabor delicado de cada yogur mientras cuidas de ti mismo. Con Activia"
+        ],
+        price: "3,60€ (3,75€ / kg)",
+        link: "https://www.amazon.es/dp/B01DUVS26E?ref_=cm_sw_r_apin_dp_AFVE68CMTCT2DZ422X20&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=d4d9890b5c345635520f8f64b8a598fe&camp=3638&creative=24630",
+        category: "hogar"
+    },
+    {
+        id: 21,
+        image: "https://m.media-amazon.com/images/I/8110yf6hjpL._AC_SL1500_.jpg",
+        title: "Central Lechera Asturiana Leche Semidesnatada, 6 x 1L",
+        description: [
+            "Disfruta de la pureza y el sabor auténtico de la leche con Central Lechera Asturiana Leche Semidesnatada. Este paquete de 6 botellas de 1 litro cada una es la elección perfecta para aquellos que desean incorporar la leche semidesnatada en su dieta diaria de manera práctica y deliciosa."
+            "Central Lechera Asturiana se destaca por su compromiso con la calidad y el origen de la leche. Cada gota de leche semidesnatada ha sido cuidadosamente seleccionada de granjas ganaderas, garantizando la frescura y el sabor auténtico que caracteriza a esta reconocida marca."
+            "La leche semidesnatada de Central Lechera Asturiana ofrece un equilibrio perfecto entre la textura cremosa y el contenido reducido de grasa. Es la opción ideal para aquellos que buscan una alternativa más ligera sin comprometer el sabor ni los nutrientes esenciales que la leche proporciona."
+            "El práctico formato de 6 botellas de 1 litro cada una asegura que siempre tengas suficiente leche semidesnatada a mano. Ya sea para disfrutarla sola, añadirla a tu café o preparar deliciosos batidos, siempre tendrás la cantidad necesaria para satisfacer tus necesidades lácteas."
+            "La leche semidesnatada de Central Lechera Asturiana es rica en calcio, proteínas y vitaminas, lo que la convierte en una opción nutritiva para toda la familia. Es una fuente de energía natural que contribuye al desarrollo y mantenimiento de huesos y músculos fuertes."
+            "Las botellas de Central Lechera Asturiana Leche Semidesnatada están diseñadas para mantener la leche fresca y protegida de la luz. Su tapa hermética garantiza la conservación de todas las propiedades y el sabor original de la leche hasta su consumo."
+            "Central Lechera Asturiana se enorgullece de su compromiso con la sostenibilidad y el cuidado del medio ambiente. Las botellas son 100% reciclables, lo que refuerza el compromiso de la marca con la reducción de residuos y la protección del entorno natural."
+            "Elige Central Lechera Asturiana Leche Semidesnatada y disfruta de la calidad, el sabor y la nutrición en cada sorbo. Brinda a tu familia una opción láctea equilibrada y deliciosa. Descubre cómo la leche semidesnatada puede formar parte de una vida saludable y activa."
+        ],
+        price: "6,48€",
+        link: "https://www.amazon.es/dp/B01ITRIBGU?ref_=cm_sw_r_apin_dp_VGMK0SCN1R3D8RMDWVS7&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=8716f0650ec460f027b3254424791b22&camp=3638&creative=24630",
+        category: "hogar"
+    },
+    {
+        id: 22,
+        image: "https://m.media-amazon.com/images/I/81pidtWLdjL._AC_SL1500_.jpg",
+        title: "Colhogar Ultra Suave XXL x12 - Papel Higiénico Suave - Paquete con 12 Rollos Extra Grandes - Papel de Baño de 2 Capas - 100% Libre de Perfume - Blanco, 12, 12 unidad, 1",
+        description: [
+            "¡Dale a tu baño el toque de suavidad que se merece con el papel higiénico Colhogar Ultra Suave XXL x12! Este papel de baño suave y reconfortante es la elección perfecta para aquellos que valoran la comodidad y la calidad en su rutina diaria."
+            "Colhogar Ultra Suave XXL x12 está diseñado para brindarte una experiencia delicada y agradable. Cada hoja de papel higiénico ha sido cuidadosamente elaborada para ser suave al tacto, proporcionando una sensación de confort y frescura en cada uso."
+            "El paquete incluye 12 rollos extra grandes, asegurando que no te quedes sin papel higiénico cuando más lo necesitas. Con esta cantidad generosa, podrás disfrutar de la suavidad y la comodidad de Colhogar Ultra Suave durante mucho tiempo."
+            "El papel de baño de 2 capas de Colhogar Ultra Suave XXL ofrece una mayor absorción y resistencia, brindándote una experiencia de limpieza confiable y efectiva. No tendrás que preocuparte por la calidad del papel, ya que está diseñado para cumplir con tus expectativas más exigentes."
+            "Una de las características distintivas de Colhogar Ultra Suave XXL es que es 100% libre de perfume. Esto lo convierte en una opción ideal para aquellos con piel sensible o alergias, garantizando una experiencia higiénica sin irritaciones ni molestias."
+            "El color blanco clásico del papel higiénico de Colhogar Ultra Suave XXL aporta una sensación de limpieza y pureza a tu baño. Combina perfectamente con cualquier estilo decorativo y brinda una apariencia elegante y pulcra en tu espacio personal."
+            "Colhogar se enorgullece de ofrecer productos de alta calidad, y el papel higiénico Colhogar Ultra Suave XXL no es una excepción. Cada rollo ha sido fabricado bajo estrictos estándares de calidad para garantizar una experiencia de uso superior y una satisfacción duradera."
+            "Elige Colhogar Ultra Suave XXL x12 y disfruta de la suavidad y la comodidad en cada visita al baño. Cuida de ti mismo y de tu higiene personal con este papel higiénico suave y confiable. Descubre cómo pequeños detalles pueden marcar la diferencia en tu día a día."
+        ],
+        price: "4,49€",
+        link: "https://www.amazon.es/dp/B0731F6V7B?ref_=cm_sw_r_apin_dp_6QQH4GB95HHVN174073V&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=839213a970e226efeccb909af290a85e&camp=3638&creative=24630",
+        category: "hogar"
+    },
+    {
+        id: 23,
+        image: "https://m.media-amazon.com/images/I/81bts2GFMGL._AC_SL1500_.jpg",
+        title: "Colhogar Pure Natural x80 - Caja de Faciales Suaves Biodegradables - Resistentes a la Lavadora - Hechos con Materiales Reciclados - Caja con 80 Pañuelos - Color Natural",
+        description: [
+            "¡Cuida de ti y del medio ambiente con los pañuelos faciales Colhogar Pure Natural x80! Estos suaves y biodegradables pañuelos son la opción perfecta para aquellos que buscan una alternativa ecológica y respetuosa con la naturaleza."
+            "Con Colhogar Pure Natural x80, puedes disfrutar de la suavidad que tu piel merece. Estos pañuelos faciales están diseñados para brindarte una experiencia delicada y reconfortante, cuidando de tu rostro con cada uso."
+            "No solo cuidarás de ti mismo con estos pañuelos, sino que también estarás protegiendo el medio ambiente. Colhogar Pure Natural x80 está fabricado con materiales reciclados, contribuyendo a la reducción de residuos y fomentando un consumo responsable."
+            "La caja de Colhogar Pure Natural x80 contiene 80 pañuelos, asegurando que siempre tengas a mano una cantidad generosa para satisfacer tus necesidades. Ya sea para secar una lágrima, limpiar tu rostro o simplemente mantener la frescura, estos pañuelos estarán allí cuando los necesites."
+            "La resistencia a la lavadora de los pañuelos Colhogar Pure Natural x80 los convierte en una opción conveniente y duradera. Puedes utilizarlos sin preocuparte por su deterioro, ya que se mantendrán en perfectas condiciones incluso después de un ciclo de lavado."
+            "El color natural de los pañuelos agrega un toque de elegancia y simplicidad a tu rutina diaria. Combina perfectamente con cualquier ambiente y estilo, brindándote una experiencia visualmente agradable mientras cuidas de ti mismo y del planeta."
+            "Colhogar Pure Natural x80 se enorgullece de su compromiso con la sostenibilidad y la calidad. Cada pañuelo ha sido cuidadosamente elaborado para cumplir con los estándares más altos, garantizando una textura suave y una resistencia confiable en cada uso."
+            "Elige Colhogar Pure Natural x80 y descubre cómo los pequeños gestos pueden marcar la diferencia. Cuida de tu piel y del medio ambiente con estos pañuelos faciales suaves, biodegradables y resistentes. Disfruta de la comodidad y la tranquilidad de saber que estás haciendo una elección responsable."
+        ],
+        price: "1,52€",
+        link: "https://www.amazon.es/dp/B0731F6V7B?ref_=cm_sw_r_apin_dp_6QQH4GB95HHVN174073V&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=56423133ecad35b315a0d32f93fcc7ba&camp=3638&creative=24630",
+        category: "hogar"
+    },
+    {
+        id: 24,
+        image: "https://m.media-amazon.com/images/I/61DGwu1CJpL._AC_SL1500_.jpg",
+        title: "Sprite Lima-Limón, Zero Azúcar, Botella 2L",
+        description: [
+            "¡Dale un toque refrescante y sin azúcar a tus días con Sprite Lima-Limón Zero Azúcar! Este clásico refresco de burbujas lleno de sabor cítrico es la opción perfecta para aquellos que desean disfrutar de una bebida refrescante sin preocuparse por las calorías."
+            "La combinación única de lima y limón en Sprite Lima-Limón Zero Azúcar ofrece una explosión de frescura y acidez en cada sorbo. Su fórmula sin azúcar te permite deleitarte con el sabor característico de Sprite sin añadir calorías extra a tu dieta."
+            "Con el práctico formato de botella de 2 litros, tendrás suficiente Sprite Lima-Limón Zero Azúcar para compartir en cualquier ocasión. Desde reuniones con amigos hasta momentos de relajación en casa, esta bebida refrescante estará siempre lista para satisfacer tu sed."
+            "Sprite Lima-Limón Zero Azúcar se destaca por su autenticidad y sabor equilibrado. Cada sorbo te brinda la refrescante sensación cítrica que caracteriza a Sprite, pero sin comprometer tu ingesta de azúcar. Disfruta de la satisfacción de una bebida sin igual, sin las preocupaciones calóricas."
+            "La calidad es un pilar fundamental en Sprite Lima-Limón Zero Azúcar. Cada botella está elaborada con los más altos estándares de producción, asegurando que cada sorbo mantenga el sabor fresco y burbujeante que amas en cada ocasión."
+            "Sprite Lima-Limón Zero Azúcar no solo es una opción para calmar la sed, sino que también es una excelente base para mezclar cócteles refrescantes y crear combinaciones de sabores innovadoras. Experimenta con tus ingredientes favoritos y disfruta de bebidas creativas y sin azúcar."
+            "La botella de 2 litros de Sprite Lima-Limón Zero Azúcar presenta un diseño práctico y seguro. Su tapa hermética mantiene la efervescencia y el sabor fresco por más tiempo, para que puedas disfrutar de cada sorbo con la misma intensidad en cada ocasión."
+            "Con Sprite Lima-Limón Zero Azúcar, no tienes que renunciar al sabor ni preocuparte por las calorías. Refréscate y vive cada momento con una bebida sin azúcar y llena de burbujas cítricas. Disfruta de la vida, mantén tu equilibrio y brinda con Sprite Lima-Limón Zero Azúcar, la elección refrescante sin remordimientos."
+        ],
+        price: "1,54€",
+        link: "https://www.amazon.es/dp/B008TTWV5Q?ref_=cm_sw_r_apin_dp_F3ZPEHH8HA1NGGM7HTK5&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=fe7811958f0b8bf914e713c0180fad85&camp=3638&creative=24630",
+        category: "hogar"
+    },
+    {
+        id: 25,
+        image: "https://m.media-amazon.com/images/I/71juJPxBJxL._AC_SL1500_.jpg",
+        title: "Coca-Cola Light - Refresco de cola sin azúcar, sin calorías - Pack 2 botellas 2L",
+        description: [
+            "¡Refresca tu sed y disfruta del sabor icónico de Coca-Cola sin preocuparte por las calorías con Coca-Cola Light! Este refresco de cola sin azúcar y sin calorías es la opción perfecta para aquellos que desean cuidar su figura sin renunciar al placer de una bebida burbujeante y deliciosa."
+            "La fórmula única de Coca-Cola Light combina la refrescante efervescencia de siempre con un sabor auténtico y sin azúcar. Cada sorbo te transportará a un mundo lleno de frescura y satisfacción, sin añadir calorías extra a tu dieta."
+            "Con el pack de 2 botellas de 2 litros de Coca-Cola Light, tendrás suficiente para compartir y disfrutar en cualquier ocasión. Ya sea en una reunión con amigos o simplemente para saciar tu sed después de un largo día, siempre tendrás a mano esta bebida sin igual."
+            "A diferencia de otros refrescos light en el mercado, Coca-Cola Light ha perfeccionado su fórmula para ofrecerte un sabor auténtico y equilibrado. Cada sorbo te brindará el inconfundible gusto de la cola de Coca-Cola, pero sin el peso de las calorías."
+            "Además de ser una opción baja en calorías, Coca-Cola Light también se enorgullece de su compromiso con la calidad. Cada botella está cuidadosamente elaborada bajo los más altos estándares de producción, garantizando un producto fresco y de excelente sabor en cada ocasión."
+            "Disfruta de la versatilidad de Coca-Cola Light. Puedes tomarla sola, mezclarla con tu licor preferido para crear refrescantes cócteles o incluso utilizarla como base para postres y recetas creativas. Las posibilidades son infinitas y siempre te brindarán momentos de auténtico deleite."
+            "El diseño del pack de 2 botellas de 2 litros de Coca-Cola Light es práctico y conveniente. Su tapa hermética asegura que la bebida se mantenga fresca y efervescente por más tiempo, permitiéndote disfrutar de su sabor inconfundible en cualquier momento que desees."
+            "Con Coca-Cola Light, no tendrás que sacrificar el sabor ni privarte de los placeres de la vida. Disfruta de la sensación refrescante de una Coca-Cola sin azúcar y sin calorías, y mantén tu estilo de vida equilibrado y lleno de energía. Brinda con una sonrisa y vive cada momento al máximo con Coca-Cola Light."
+        ],
+        price: "4,01€",
+        link: "https://www.amazon.es/dp/B00XA0FTHG?ref_=cm_sw_r_apin_dp_8YVGBKAN20F5V04FSMRD&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=f5a5757c8db81e426b0fe8048b13f412&camp=3638&creative=24630",
+        category: "hogar"
+    },
+    {
+        id: 26,
+        image: "https://m.media-amazon.com/images/I/91Ygi8htBsL._AC_SL1500_.jpg",
+        title: "Friskies Comida Seca para Gato Adulto con Buey Pollo y Verduras, 4kg",
+        description: [
+            "¡Descubre el festín que hará ronronear de felicidad a tu gato adulto con la comida seca Friskies! Con su deliciosa combinación de buey, pollo y verduras, este producto es una opción irresistible para consentir a tu fiel compañero felino."
+            "El sabor suculento del buey se entrelaza con la suavidad del pollo, creando una experiencia gastronómica única que satisfará hasta el paladar más exigente de tu gato."
+            "Friskies no solo cuida el gusto de tu mascota, sino también su salud. Su fórmula balanceada está diseñada para brindar todos los nutrientes esenciales que tu gato adulto necesita para mantenerse en su mejor forma física."
+            "El crujiente de la comida seca Friskies estimula la masticación y promueve una buena salud dental, ayudando a prevenir la acumulación de sarro y el mal aliento. Tu gato disfrutará cada bocado con entusiasmo y mantendrá su sonrisa reluciente."
+            "Además de su irresistible sabor y beneficios para la salud, Friskies también se destaca por su calidad. Elaborado con ingredientes cuidadosamente seleccionados y procesado bajo estrictos estándares de calidad, este producto garantiza una experiencia alimentaria segura y confiable para tu gato."
+            "La incorporación de verduras frescas en la fórmula de Friskies agrega un toque de color y nutrición adicional a la dieta de tu gato. Las verduras seleccionadas proporcionan vitaminas y minerales esenciales, contribuyendo a una alimentación equilibrada."
+            "La presentación en envase de 4 kg asegura que tu gato tenga suficiente comida para disfrutar durante un largo periodo de tiempo. Además, el diseño práctico y resistente del envase mantiene el alimento fresco y protegido de la humedad, conservando todo su sabor y calidad."
+            "Con Friskies Comida Seca para Gato Adulto con Buey, Pollo y Verduras, le estarás brindando a tu gato no solo una alimentación completa y sabrosa, sino también momentos de pura felicidad. Observa cómo tu amigo peludo se deleita con cada bocado y florece en salud y vitalidad. ¡No esperes más y dale a tu gato el placer que se merece!"
+        ],
+        price: "15,99€",
+        link: "https://www.amazon.es/dp/B00L5GIO2E?ref_=cm_sw_r_apin_dp_BWEYT3RW48JWQB41P2Q7&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=734a5cd329fff2266c98acc4b1003ffd&camp=3638&creative=24630",
+        category: "hogar"
     }
+
+
+
     // Agrega más productos aquí
 ];
 
