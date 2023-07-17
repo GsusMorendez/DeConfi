@@ -460,6 +460,32 @@ const productsJson = [
         price: "15,99€",
         link: "https://www.amazon.es/dp/B00L5GIO2E?ref_=cm_sw_r_apin_dp_BWEYT3RW48JWQB41P2Q7&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=734a5cd329fff2266c98acc4b1003ffd&camp=3638&creative=24630",
         category: "hogar"
+    },
+
+    {
+        id: 27,
+        image: "https://m.media-amazon.com/images/I/71eMliAZbkL._AC_SL1500_.jpg",
+        title: "Boldplex 7 Aceite para el Pelo Seco y Dañado - Añade Brillo, Fortalece, Suaviza las Puntas Abiertas y Encrespamiento, Hidrata y Nutre. Aceite Capilar Ligero para Cabello Rizado y Encrespado - 100ml",
+        description: [
+            "¡Revive tu cabello seco y dañado con la poderosa fórmula de Boldplex 7 Aceite para el Pelo! Este innovador elixir capilar de 100ml es la solución definitiva para añadir brillo, fortalecer, suavizar las puntas abiertas y combatir el encrespamiento, brindando hidratación y nutrición en cada gota."
+
+            "Boldplex 7 Aceite para el Pelo ha sido diseñado para rescatar y transformar tu melena en una cascada de belleza. Su fórmula ligera penetra profundamente en cada hebra, restaurando la vitalidad y dejando un cabello más brillante y saludable en cada aplicación."
+
+            "Este aceite capilar es el mejor aliado para cabellos rizados y encrespados. Domina tus rizos rebeldes y dile adiós al encrespamiento con Boldplex 7, que suaviza y define tus rizos para un look elegante y con movimiento."
+
+            "La versatilidad de Boldplex 7 Aceite para el Pelo es una ventaja destacada. Además de ser una fuente de hidratación profunda, también actúa como escudo protector ante el calor de las herramientas de estilizado y los daños ambientales, manteniendo tu cabello protegido y deslumbrante."
+
+            "Cada aplicación de Boldplex 7 no solo repara y fortalece tu cabello, sino que también deja una agradable fragancia que perdura durante todo el día. Siente la confianza de lucir una melena irresistible y fragante en cualquier momento."
+
+            "La botella de 100ml del aceite para el pelo Boldplex 7 es práctica y duradera. Su diseño elegante y seguro facilita su aplicación sin desperdicios, para que puedas disfrutar de sus beneficios por mucho tiempo."
+
+            "Boldplex se destaca por su compromiso con ingredientes de calidad y sin daños. Este aceite para el pelo es libre de parabenos y sulfatos, asegurando que cada gota sea una experiencia segura y efectiva para tu cabello."
+
+            "Recupera la belleza y el esplendor de tu cabello con Boldplex 7 Aceite para el Pelo Seco y Dañado. Vive la experiencia de un cabello revitalizado, brillante y resistente. Con Boldplex 7, dale a tu cabello el tratamiento que se merece y brilla con confianza todos los días."
+        ],
+        price: "14,00€",
+        link: "https://www.amazon.es/b?_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=2b6c78023610d134197243c65614c8b7&camp=3638&creative=24630&node=599370031",
+        category: "hogar"
     }
 
 
