@@ -484,7 +484,7 @@ const productsJson = [
             "Recupera la belleza y el esplendor de tu cabello con Boldplex 7 Aceite para el Pelo Seco y Dañado. Vive la experiencia de un cabello revitalizado, brillante y resistente. Con Boldplex 7, dale a tu cabello el tratamiento que se merece y brilla con confianza todos los días."
         ],
         price: "14,00€",
-        link: "https://www.amazon.es/b?_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=d1d8d39f4bb2bad202ec390ff027f4b8&camp=3638&creative=24630&node=970144031",
+        link: "https://www.amazon.es/dp/B09XQZBP39?ref_=cm_sw_r_apin_dp_3P6RC0P5RA75MWYDY0J4&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=f092b798e82a9056dadf5cba9266a3d2&camp=3638&creative=24630",
         category: "hogar"
     }
 
