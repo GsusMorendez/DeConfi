@@ -486,6 +486,23 @@ const productsJson = [
         price: "14,00€",
         link: "https://www.amazon.es/dp/B09XQZBP39?ref_=cm_sw_r_apin_dp_3P6RC0P5RA75MWYDY0J4&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=f092b798e82a9056dadf5cba9266a3d2&camp=3638&creative=24630",
         category: "hogar"
+    },
+    {
+        id: 28,
+        image: "https://m.media-amazon.com/images/I/61hjv63yrjL._AC_SL1500_.jpg",
+        title: "Hawaiian Tropic Bruma Silk Hydration Air Soft SPF 50 - Loción Solar Protectora en Spray de Vaporización , Resistente al Agua hasta 12 Horas , Bruma Solar de 220 ml",
+        description: [
+            "¡Protege tu piel y disfruta de un bronceado espectacular con Hawaiian Tropic Bruma Silk Hydration Air Soft SPF 50! Esta loción solar en spray de vaporización de 220 ml te ofrece una protección efectiva contra los rayos UV, mientras mantienes tu piel suave y radiante durante todo el día.",
+            "Hawaiian Tropic es sinónimo de cuidado y deleite bajo el sol. Con Bruma Silk Hydration Air Soft SPF 50, experimentarás una sensación única en cada aplicación. Su fórmula ligera y de rápida absorción te envolverá en una bruma refrescante que se desliza suavemente sobre tu piel.",
+            "Esta loción solar protectora ha sido especialmente diseñada para brindar una protección de alto factor SPF 50, protegiendo tu piel de los daños causados por los rayos UVA y UVB. Ahora podrás disfrutar del sol sin preocupaciones, manteniendo tu piel segura y saludable.",
+            "La resistencia al agua de hasta 12 horas es una característica destacada de Hawaiian Tropic Bruma Silk Hydration Air Soft SPF 50. No importa si te sumerges en el mar o en la piscina, esta bruma solar resistente al agua te protegerá durante todas tus actividades bajo el sol.",
+            "Además de su poderosa protección, esta bruma solar también está enriquecida con seda y coco, lo que la convierte en una delicia para tu piel. Experimenta una hidratación duradera y una suavidad irresistible mientras te bronceas bajo los rayos del sol.",
+            "El práctico formato en spray de vaporización de Hawaiian Tropic Bruma Silk Hydration Air Soft SPF 50 te permite una aplicación fácil y uniforme. Disfruta de una experiencia refrescante y libre de residuos grasos, para que te sientas cómodo y protegido durante todo el día.",
+            "Con Hawaiian Tropic, cada día bajo el sol se convierte en un momento especial. Bruma Silk Hydration Air Soft SPF 50 es una muestra de su compromiso con la calidad y el cuidado de tu piel. Convierte tus momentos bajo el sol en una experiencia inolvidable y radiante con Hawaiian Tropic Bruma Silk Hydration Air Soft SPF 50."
+        ],
+        price: "10,95€",
+        link: "https://www.amazon.es/dp/B07RZSPDWB?ref_=cm_sw_r_apin_dp_W3HGXSA07HH2SQHKRRXP&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=09dec80826be4f0c15f4efbebf90c788&camp=3638&creative=24630",
+        category: "hogar"
     }
 
 
