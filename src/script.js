@@ -503,6 +503,29 @@ const productsJson = [
         price: "10,95€",
         link: "https://www.amazon.es/dp/B07RZSPDWB?ref_=cm_sw_r_apin_dp_W3HGXSA07HH2SQHKRRXP&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=09dec80826be4f0c15f4efbebf90c788&camp=3638&creative=24630",
         category: "hogar"
+    },
+    {
+        id: 29,
+        image: "https://m.media-amazon.com/images/I/517mV6iPyRL._AC_SL1500_.jpg",
+        title: "ULTECHNOVO Gafas Arms Metal Gafas Reemplazo Gafas de Reemplazo Templo Negro Gafas Armas Piernas Gafas Reparaciónl",
+        description: [
+            "¡Recupera el estilo y la funcionalidad de tus gafas con ULTECHNOVO Gafas Arms Metal! Estas patillas de gafas de reemplazo en color negro te ofrecen una solución práctica y eficiente para reparar y renovar tus gafas favoritas.",
+
+            "ULTECHNOVO se preocupa por ofrecerte productos de calidad y durabilidad. Estas gafas de reemplazo están fabricadas con metal resistente, asegurando que puedas disfrutar de tus gafas renovadas durante mucho tiempo.",
+
+            "Con las patillas de gafas de reemplazo ULTECHNOVO, puedes personalizar tus gafas según tu estilo y necesidades. El color negro clásico se adapta a cualquier montura, brindando un toque de elegancia y versatilidad a tus gafas.",
+
+            "La instalación de las gafas de reemplazo es sencilla y rápida. Con solo unos simples pasos, tus gafas estarán listas para lucir una apariencia renovada y funcional. Disfruta de la comodidad y la confianza que brindan unas gafas bien ajustadas.",
+
+            "Estas patillas de gafas de reemplazo también son una opción ideal para reparar tus gafas dañadas. Ya sea que necesites reemplazar las patillas desgastadas o rotas, ULTECHNOVO Gafas Arms Metal te brinda una solución eficaz para restaurar tus gafas favoritas.",
+
+            "Además de su funcionalidad, las patillas de gafas de reemplazo ULTECHNOVO están diseñadas pensando en tu comodidad. El metal ligero garantiza que tus gafas sean cómodas de usar durante todo el día.",
+
+            "Con ULTECHNOVO Gafas Arms Metal, no tendrás que despedirte de tus gafas preferidas. Ahora puedes prolongar su vida útil y disfrutar de una reparación práctica y estilizada. Renueva tus gafas y mantén tu estilo con ULTECHNOVO Gafas Arms Metal Gafas Reemplazo."
+        ],
+        price: "9,58€",
+        link: "https://www.amazon.es/dp/B0BBD7DXMR/ref=sspa_dk_detail_4?pd_rd_i=B0BBD7DXMR&amp;pd_rd_w=QCW1D&amp;content-id=amzn1.sym.bfe1aafd-4816-4cfa-834a-7067dfa431bd&amp;pf_rd_p=bfe1aafd-4816-4cfa-834a-7067dfa431bd&amp;pf_rd_r=HP2K80Q0GMW2K951FKS9&amp;pd_rd_wg=eOr0p&amp;pd_rd_r=38927d8a-14a8-402f-884a-89c4deb801af&amp;s=kitchen&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy&amp;th=1&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=5790b0dabf0ef75e7c128bb49bbd9885&camp=3638&creative=24630",
+        category: "hogar"
     }
 
 
