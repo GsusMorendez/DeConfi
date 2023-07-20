@@ -526,6 +526,29 @@ const productsJson = [
         price: "9,58€",
         link: "https://www.amazon.es/dp/B0BBD7DXMR/ref=sspa_dk_detail_4?pd_rd_i=B0BBD7DXMR&amp;pd_rd_w=QCW1D&amp;content-id=amzn1.sym.bfe1aafd-4816-4cfa-834a-7067dfa431bd&amp;pf_rd_p=bfe1aafd-4816-4cfa-834a-7067dfa431bd&amp;pf_rd_r=HP2K80Q0GMW2K951FKS9&amp;pd_rd_wg=eOr0p&amp;pd_rd_r=38927d8a-14a8-402f-884a-89c4deb801af&amp;s=kitchen&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy&amp;th=1&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=5790b0dabf0ef75e7c128bb49bbd9885&camp=3638&creative=24630",
         category: "hogar"
+    },
+    {
+        id: 30,
+        image: "https://m.media-amazon.com/images/I/41bP1MWruzL._AC_SL1000_.jpg",
+        title: "SENSIBIO AR CREMA CUPEROSIS 40 ML.",
+        description: [
+            "¡Despídete de la cuperosis y dale a tu piel el cuidado que se merece con SENSIBIO AR Crema Cuperosis! Esta crema de 40 ml es la solución perfecta para calmar y reducir los síntomas de la cuperosis, brindando una piel más suave y uniforme.",
+
+            "SENSIBIO AR Crema Cuperosis ha sido especialmente formulada para pieles sensibles y reactivas. Su fórmula suave y calmante ayuda a aliviar las rojeces y la sensación de ardor, proporcionando una sensación de bienestar en cada aplicación.",
+
+            "Esta crema de cuperosis no solo trata los síntomas, sino que también aborda la causa principal. Gracias a su complejo patentado Rosactiv, ayuda a reducir la dilatación de los vasos sanguíneos y previene la aparición de nuevas rojeces, restaurando la armonía en tu piel.",
+
+            "Con SENSIBIO AR Crema Cuperosis, tu piel recupera su equilibrio y luminosidad. Su textura ligera y no grasa se absorbe rápidamente, dejando tu piel hidratada y suave sin dejar residuos incómodos.",
+
+            "La presentación en envase de 40 ml de SENSIBIO AR Crema Cuperosis es perfecta para llevar contigo en tu rutina diaria o en tus viajes. Su tamaño práctico y seguro te permite disfrutar de todos los beneficios de esta crema dondequiera que estés.",
+
+            "La eficacia y la seguridad son pilares fundamentales en SENSIBIO AR Crema Cuperosis. Está dermatológicamente probada y no contiene parabenos ni fragancias, lo que la convierte en una opción confiable y suave para tu piel.",
+
+            "Recupera la confianza y el confort de tu piel con SENSIBIO AR Crema Cuperosis. Brinda el cuidado especializado que tu piel sensible necesita y vive cada día con una piel más radiante y equilibrada. Descubre cómo SENSIBIO AR Crema Cuperosis puede marcar la diferencia en tu rutina de cuidado facial."
+        ],
+        price: "19,44€",
+        link: "https://www.amazon.es/dp/B003F7BJ4G?ref_=cm_sw_r_apan_dp_JGXNZ0225ZTKQ7TMA49K&amp;th=1&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=9076ddba7cf9268b795f17be43c39bf2&camp=3638&creative=24630",
+        category: "hogar"
     }
 
 
