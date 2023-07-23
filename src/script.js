@@ -549,6 +549,23 @@ const productsJson = [
         price: "19,44€",
         link: "https://www.amazon.es/dp/B003F7BJ4G?ref_=cm_sw_r_apan_dp_JGXNZ0225ZTKQ7TMA49K&amp;th=1&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=9076ddba7cf9268b795f17be43c39bf2&camp=3638&creative=24630",
         category: "hogar"
+    },
+    {
+        id: 31,
+        image: "https://m.media-amazon.com/images/I/71z2XtwdDYL._AC_SL1500_.jpg",
+        title: "500 Piezas Juego de Herramientas de Reparación de Anteojos, con Tuercas de Tornillo Pequeñas, Almohadillas de Silicona para Nariz, Pinzas, Micro Destornillador, Paño de Limpieza, para Anteojos",
+        description: [
+            "¡Mantén tus anteojos en perfecto estado con el completo y práctico juego de herramientas de reparación de anteojos de 500 piezas! Este kit incluye todo lo que necesitas para realizar reparaciones y ajustes en tus anteojos, desde tuercas de tornillo pequeñas hasta almohadillas de silicona para nariz, ¡todo al alcance de tu mano!",
+            "El juego de herramientas de reparación de anteojos de 500 piezas es la solución ideal para aquellos que desean mantener sus anteojos en óptimas condiciones sin necesidad de acudir a una óptica. Ahorra tiempo y dinero realizando reparaciones y ajustes en la comodidad de tu hogar.",
+            "Con una variedad de tuercas de tornillo pequeñas y almohadillas de silicona para nariz, este juego de herramientas garantiza que puedas encontrar las piezas adecuadas para cada tipo de anteojos. Ya sea que necesites apretar tornillos sueltos o reemplazar piezas desgastadas, este kit tiene todo lo necesario.",
+            "El juego de herramientas de reparación de anteojos también incluye una pinza y un micro destornillador, que facilitan aún más las tareas de reparación y ajuste. Con estas herramientas, podrás trabajar con precisión y cuidado en cada detalle.",
+            "Además de las herramientas esenciales, el kit también incluye un paño de limpieza para anteojos, que te permitirá mantener tus lentes libres de huellas y suciedad. Mantén una visión clara y nítida en todo momento con este paño suave y efectivo.",
+            "El diseño compacto y organizado del estuche de almacenamiento del juego de herramientas de reparación de anteojos te permite mantener todas las piezas en orden y evitar extravíos. Mantén el kit siempre a mano para cualquier ajuste o reparación que necesites realizar.",
+            "Ya sea que necesites reparar anteojos de lectura, gafas de sol o gafas para la vista, este juego de herramientas de 500 piezas tiene todo lo que necesitas para mantener tus anteojos en perfecto estado. ¡Disfruta de una visión clara y cómoda con este completo kit de reparación de anteojos!"
+        ],
+        price: "5,88€",
+        link: "https://www.amazon.es/Herramientas-Reparaci%25C3%25B3n-Anteojos-Almohadillas-Destornillador/dp/B094PFW42N/ref=sr_1_6?__mk_es_ES=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=Q82MKINA5HB0&amp;keywords=tuercas+varillas+gafas&amp;qid=1690097836&amp;sprefix=tuercas+varillas+gafa%252Caps%252C129&amp;sr=8-6&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=dea649b6de1628cdfa8d538d7bf507c9&camp=3638&creative=24630",
+        category: "hogar"
     }
 
 
