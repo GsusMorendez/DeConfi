@@ -566,6 +566,24 @@ const productsJson = [
         price: "5,88€",
         link: "https://www.amazon.es/Herramientas-Reparaci%25C3%25B3n-Anteojos-Almohadillas-Destornillador/dp/B094PFW42N/ref=sr_1_6?__mk_es_ES=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=Q82MKINA5HB0&amp;keywords=tuercas+varillas+gafas&amp;qid=1690097836&amp;sprefix=tuercas+varillas+gafa%252Caps%252C129&amp;sr=8-6&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=dea649b6de1628cdfa8d538d7bf507c9&camp=3638&creative=24630",
         category: "hogar"
+    },
+
+    {
+        id: 32,
+        image: "https://m.media-amazon.com/images/I/71vhC4TddUL._AC_SL1500_.jpg",
+        title: "Arsor Tiras de Prueba de Orina de PH, 100 Tiras de Prueba de Infección del Tracto Urinario para Pruebas Alcalinas Y ácidas, Proteínas, Leucocitos, Cetona, Nitrito, Glucosa en Sangre, PH",
+        description: [
+            "¡Mantén un control completo de tu salud urinaria con las Tiras de Prueba de Orina de PH de Arsor! Este kit de 100 tiras de prueba es una herramienta esencial para monitorear los niveles de PH, infecciones del tracto urinario y múltiples indicadores clave en tu orina, como proteínas, leucocitos, cetona, nitrito, glucosa en sangre y PH.",
+            "Las Tiras de Prueba de Orina de PH de Arsor son fáciles de usar y brindan resultados rápidos y precisos en la comodidad de tu hogar. Simplemente sumerge una tira en tu muestra de orina y en pocos segundos obtendrás información valiosa sobre tu salud urinaria.",
+            "Con estas tiras de prueba, podrás realizar pruebas alcalinas y ácidas en tu orina, lo que te permitirá evaluar el equilibrio ácido-base en tu organismo. Asimismo, podrás detectar posibles infecciones del tracto urinario y otros indicadores clave que pueden afectar tu salud renal.",
+            "Arsor ha diseñado estas tiras de prueba con alta sensibilidad y precisión, para asegurar que obtengas resultados confiables y consistentes en cada prueba. Monitorea tu salud urinaria con confianza y detecta cualquier cambio que pueda requerir atención médica.",
+            "El kit de 100 tiras de prueba de orina te proporciona suficiente cantidad para realizar pruebas a lo largo del tiempo, lo que te permite llevar un seguimiento detallado de tu salud urinaria y detectar cualquier cambio a tiempo.",
+            "Ya sea que estés siguiendo un tratamiento médico específico o simplemente quieras mantener un control preventivo de tu salud, las Tiras de Prueba de Orina de PH de Arsor te brindan una herramienta esencial para cuidar de tu bienestar de manera sencilla y eficiente.",
+            "Con Arsor Tiras de Prueba de Orina de PH, toma el control de tu salud urinaria y asegúrate de que todo esté en equilibrio. Detecta posibles problemas de salud a tiempo y toma medidas preventivas para mantener tu sistema urinario en óptimas condiciones. Cuida de ti y de tu salud con esta solución práctica y confiable."
+        ],
+        price: "20,66€",
+        link: "https://www.amazon.es/dp/B0BD7FDSLP?ref_=cm_sw_r_apin_dp_C0JYH02ZJ23BGD1NHJ9Z_1&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=c6b9451716eabed6f9f2f6c871d03085&camp=3638&creative=24630",
+        category: "hogar"
     }
 
 
