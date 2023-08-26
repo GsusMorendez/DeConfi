@@ -584,9 +584,43 @@ const productsJson = [
         price: "20,66€",
         link: "https://www.amazon.es/dp/B0BD7FDSLP?ref_=cm_sw_r_apin_dp_C0JYH02ZJ23BGD1NHJ9Z_1&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=c6b9451716eabed6f9f2f6c871d03085&camp=3638&creative=24630",
         category: "hogar"
+    },
+
+    {
+        id: 33,
+        image: "https://m.media-amazon.com/images/I/519NJt-qXgL._AC_SX679_.jpg",
+        title: "Haweeli Perchas Infantiles bebés de Terciopelo para Ropa 40 Unidades, 29,5cm",
+        description: [
+            "Las Haweeli Perchas Infantiles bebés de Terciopelo para Ropa 40 Unidades son una buena opción para organizar la ropa de tu bebé. Son bonitas, duraderas y asequibles.",
+            "Las perchas son de color rosa pastel y tienen forma de osito. Son muy bonitas y le darán un toque de estilo a la habitación de tu bebé. Las perchas están hechas de terciopelo, un material suave y agradable al tacto. También son muy duraderas y no se deformarán fácilmente.",
+            "Las perchas tienen un ancho ajustable, por lo que se adaptan a la ropa de diferentes tamaños. Son de 29,5 cm de largo, lo que las hace ideales para la ropa de bebé.",
+            "Las perchas tienen un gancho giratorio, por lo que puedes colgarlas en cualquier dirección. También tienen un clip para sujetar la ropa.",
+            "Las perchas son muy asequibles, por lo que son una buena opción para ahorrar dinero.",
+            "Las Haweeli Perchas Infantiles bebés de Terciopelo para Ropa 40 Unidades son una buena opción para organizar la ropa de tu bebé. Son bonitas, duraderas y asequibles. Las recomendamos.",
+        ],
+        price: "21,99€ (0,55€ / unidad)",
+        link: "https://www.amazon.es/dp/B0BL3WSPFZ?ref_=cm_sw_r_apin_dp_QQZH5P7MWGN4CHKTDJ1V&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=30ef4d7ee72c5e6841cbce5f3e92eecc&camp=3638&creative=24630",
+        category: "hogar"
+    },
+
+
+    {
+        id: 34,
+        image: "https://m.media-amazon.com/images/I/71iOlhrtxiL._AC_SX679_.jpg",
+        title: "Homgaty - Juego de 24 pinzas para perchas de terciopelo, de agarre fuerte para colgar pantalones, faldas, prendas",
+        description: [
+            "Agarre fuerte: Las pinzas tienen un agarre fuerte que mantiene la ropa en su lugar, incluso cuando se agita o se mueve.",
+            "Materiales de alta calidad: Las pinzas están hechas de terciopelo, un material suave y agradable al tacto. También son muy duraderas y no se deformarán fácilmente.",
+            "Ajustables: Las pinzas tienen un ancho ajustable, por lo que se adaptan a la ropa de diferentes tamaños.",
+            "Prácticas y funcionales: Las pinzas tienen un gancho giratorio, por lo que puedes colgarlas en cualquier dirección. También tienen un clip para sujetar la ropa.",
+            "Buen precio: Las pinzas son muy asequibles, por lo que son una buena opción para ahorrar dinero.",
+            "El terciopelo puede ser un poco peludo. Es importante limpiar las pinzas regularmente para evitar que se acumule el pelo.",
+            "Las pinzas para perchas de terciopelo de Homgaty son una buena opción para mantener la ropa organizada y en su lugar. Son fuertes, duraderas y asequibles.",
+        ],
+        price: "14,99€ (0,62€ / unidad)",
+        link: "https://www.amazon.es/dp/B07DNPRC9B?ref_=cm_sw_r_apin_dp_S775KQDQE6NVFXH5TKY8&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=0629f1e6d075fb4677d700b22d8543b4&camp=3638&creative=24630",
+        category: "hogar"
     }
-
-
 
     // Agrega más productos aquí
 ];
@@ -814,7 +848,7 @@ function displayAboutUs() {
     <h1>Bienvenidos a nuestra página de Reseñas de Productos</h1>
     <p style="text-align: justify">Somos un equipo de entusiastas que nos encanta probar y compartir nuestros comentarios sobre diferentes productos. Desde gadgets electrónicos hasta productos para el hogar, estamos aquí para ofrecerte nuestras opiniones honestas y ayudarte a tomar decisiones informadas.</p>
     <p style="text-align: justify">En nuestra página, encontrarás reseñas detalladas y recomendaciones basadas en nuestra propia experiencia. Valoramos la calidad, el rendimiento y la utilidad de cada producto que probamos.</p>
-    <p style="text-align: justify">Actualmente, estamos trabajando arduamente para poder ofrecerte una experiencia aún mejor al solicitar nuestros propios enlaces de afiliados directamente a los productos de Amazon.</p>
+    <p style="text-align: justify">Nos complace anunciarle que tras haber trabajado arduamente para poder ofrecerte una experiencia aún mejor, hemos conseguido nuestros propios enlaces de afiliados directamente a los productos de Amazon.</p>
     <p style="text-align: justify">Nuestro objetivo es proporcionarte un servicio excepcional y garantizarte una navegación fluida y segura en nuestra página. Al establecer una asociación con Amazon, podremos redirigirte directamente a los productos que mencionamos en nuestras reseñas a través de nuestros enlaces de afiliados.</p>
     <p style="text-align: justify">Valoramos profundamente la confianza que depositas en nosotros al visitar nuestra página y leer nuestras reseñas. Es por eso que nos esforzamos por ser completamente transparentes en nuestra relación con nuestros usuarios.</p>
     <p style="text-align: justify">Al solicitar los enlaces de afiliados con Amazon, nos comprometemos a utilizar exclusivamente dichos enlaces y nunca utilizar otros programas de afiliados. Esto garantiza que la información y los enlaces que proporcionamos sean consistentes y confiables.</p>
@@ -824,7 +858,8 @@ function displayAboutUs() {
     <p style="text-align: justify">Estamos emocionados por la oportunidad de colaborar con Amazon y ofrecerte una experiencia aún mejor. Seguiremos informándote sobre nuestros avances y los pasos que estamos dando para establecer nuestra colaboración con Amazon.</p>
     <p style="text-align: justify">¡Explora nuestras reseñas y descubre los productos que nos encantan en Amazon! Estamos seguros de que encontrarás nuestras opiniones útiles y disfrutarás de los productos tanto como nosotros. ¡Gracias por considerar nuestra solicitud y por ser parte de nuestra comunidad!</p>
     <h1>Política de Privacidad</h1>
-    <p style="text-align: justify">En nuestro sitio web, valoramos y respetamos tu privacidad. Nos comprometemos a proteger la información personal que compartas con nosotros. Este sitio web es de solo lectura y no recopila cookies ni realiza seguimiento de ningún tipo. No almacenamos ni compartimos tu información personal con terceros sin tu consentimiento expreso.</p>
+    <p style="text-align: justify">En nuestro sitio web, valoramos y respetamos tu privacidad. Nos comprometemos a proteger la información personal que compartas con nosotros. Este sitio web es de solo lectura y no recopila cookies (solo habrá una cookie que quede en tu ordenador durante un tiempo limitado que amazon gestionara
+     y por la cual identifica que está comprando en amazon desde nuestra pagina web) ni realiza seguimiento de ningún tipo. No almacenamos ni compartimos tu información personal con terceros sin tu consentimiento expreso.</p>
     <p style="text-align: justify">Al utilizar este sitio web, aceptas nuestras condiciones de uso y política de privacidad.</p>
 `;
 
