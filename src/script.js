@@ -5,9 +5,10 @@
 
 
 // Datos de los productos
-var productsJson
+let productsJson;
 const productsPerPage = 6;
 const productsFilePath = "./src/products.json";
+const productIdParameter = "productId"
 
 // Obtener el contenedor de los productos
 const productsContainer = document.getElementById("products-container");
@@ -22,8 +23,15 @@ function startApp() {
         .then(response => response.json())
         .then(productsArray => {
             productsJson = productsArray
-            printFirstPage(productsArray)
-            createPagination(productsArray)
+            const url = window.location.href;
+            const query = new URL(url).search;
+            if (query.includes(productIdParameter)) {
+                const productId = new URL(url).searchParams.get(productIdParameter);
+                showDetails(productId)
+            } else {
+                printFirstPage(productsArray)
+                createPagination(productsArray)
+            }
         });
 }
 
@@ -153,7 +161,6 @@ function printProducts(products) {
     // `;
 }
 
-
 //when click in lens
 document.getElementById("lensForm").addEventListener("submit", function (event) {
     event.preventDefault();
@@ -162,7 +169,6 @@ document.getElementById("lensForm").addEventListener("submit", function (event) 
     printFirstPage(products)
     createPagination(products)
 });
-
 
 function searchProducts(keyword, field) {
     const results = [];
@@ -176,6 +182,7 @@ function searchProducts(keyword, field) {
             results.push(product);
         }
     }
+    cleanUrl()
     return results;
 }
 
@@ -185,6 +192,7 @@ document.getElementById("modaLink").addEventListener("click", function (event) {
     let modaProducts = searchProducts("moda", "category")
     printFirstPage(modaProducts)
     createPagination(modaProducts)
+    cleanUrl()
 });
 
 document.getElementById("hogarLink").addEventListener("click", function (event) {
@@ -192,6 +200,7 @@ document.getElementById("hogarLink").addEventListener("click", function (event) 
     let hogaProducts = searchProducts("hogar", "category")
     printFirstPage(hogaProducts)
     createPagination(hogaProducts)
+    cleanUrl()
 });
 
 document.getElementById("tecnologiaLink").addEventListener("click", function (event) {
@@ -199,6 +208,7 @@ document.getElementById("tecnologiaLink").addEventListener("click", function (ev
     let tecProducts = searchProducts("tecnologia", "category")
     printFirstPage(tecProducts)
     createPagination(tecProducts)
+    cleanUrl()
 });
 
 document.getElementById("librosLink").addEventListener("click", function (event) {
@@ -206,6 +216,7 @@ document.getElementById("librosLink").addEventListener("click", function (event)
     let tecProducts = searchProducts("libros", "category")
     printFirstPage(tecProducts)
     createPagination(tecProducts)
+    cleanUrl()
 });
 
 ////////////////////////////////////////////////////////////////////
@@ -236,6 +247,10 @@ function showDetails(id) {
             <a href="${productsJson[id].link}" class="btn btn-primary">Ver en Amazon</a>
         </div>
     `;
+
+    const url = new URL(window.location.href);
+    url.searchParams.set(productIdParameter, id);
+    history.replaceState({}, "", url.toString());
 }
 
 function truncateText(text) {
@@ -271,6 +286,12 @@ function displayAboutUs() {
 `;
 
     productsContainer.appendChild(newDiv);
+}
+
+function cleanUrl(){
+    const url = new URL(window.location.href);
+    url.searchParams.delete(productIdParameter);
+    history.replaceState({}, "", url.toString());
 }
 
 
