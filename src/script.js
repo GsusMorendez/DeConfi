@@ -1,96 +1,39 @@
+//MVP1: 1 having in a constant all the products, 2 have three categories, 3 searching working, 4 see all products, 5 see one product detail
+
+//idea 1 create a file with the products and then a function to read the file and load the products into a constant
+//idea 2 create a folder with all the image (or their bytes and load in image field this bytes or the direction or whatever is needed)
+
+
+// Datos de los productos
 let productsJson;
-
-const xhr = new XMLHttpRequest();
-xhr.open("GET", "src/products.json");
-xhr.onload = function () {
-    if (xhr.status === 200) {
-        const data = xhr.responseText;
-        productsJson = JSON.parse(data);
-        console.log(productsJson)
-
-        startApp(productsJson)
-
-        function searchProducts(productsJ, keyword, field) {
-            const results = [];
-            let productReference;
-            for (let i = 0; i < productsJ.length; i++) {
-                const product = productsJ[i];
-
-                if (field === "title") {
-                    productReference = product.title.toLowerCase();
-                    if (productReference.includes(keyword.toLowerCase())) {
-                        results.push(product);
-                    }
-                }
-
-                if (field === "category" && product.category != undefined) {
-                    productReference = product.category.toLowerCase();
-                    if (productReference.includes(keyword.toLowerCase())) {
-                        results.push(product);
-                    }
-                }
-            }
-            return results;
-        }
-
-        //Menu categories
-        document.getElementById("modaLink").addEventListener("click", function (event) {
-            event.preventDefault();
-            let modaProducts = searchProducts(productsJson, "moda", "category")
-            printFirstPage(modaProducts)
-            createPagination(modaProducts)
-        });
-
-        document.getElementById("hogarLink").addEventListener("click", function (event) {
-            event.preventDefault();
-            let hogaProducts = searchProducts(productsJson, "hogar", "category")
-            printFirstPage(hogaProducts)
-            createPagination(hogaProducts)
-        });
-
-        document.getElementById("tecnologiaLink").addEventListener("click", function (event) {
-            event.preventDefault();
-            let tecProducts = searchProducts(productsJson, "tecnologia", "category")
-            printFirstPage(tecProducts)
-            createPagination(tecProducts)
-        });
-
-        document.getElementById("librosLink").addEventListener("click", function (event) {
-            event.preventDefault();
-            let tecProducts = searchProducts(productsJson, "libros", "category")
-            printFirstPage(tecProducts)
-            createPagination(tecProducts)
-        });
-
-        //when click in lens
-        document.getElementById("lensForm").addEventListener("submit", function (event) {
-            event.preventDefault();
-            let textFieldValue = document.getElementById("textField").value;
-            let products = searchProducts(productsJson, textFieldValue, "title")
-            printFirstPage(products)
-            createPagination(products)
-        });
-
-
-    } else {
-        console.log("Error al cargar el archivo.");
-        console.log(xhr.status, xhr.responseText);
-    }
-};
-xhr.send();
-
-
-console.log("hereeee " + productsJson)
-
-
 const productsPerPage = 6;
+const productsFilePath = "./src/products.json";
+const productIdParameter = "productId"
 
 // Obtener el contenedor de los productos
 const productsContainer = document.getElementById("products-container");
 const fatherPaginationContainer = document.getElementById("pagination-container");
 
 
-// startApp(productsJson)
+startApp()
+
+
+function startApp() {
+    fetch(productsFilePath)
+        .then(response => response.json())
+        .then(productsArray => {
+            productsJson = productsArray
+            const url = window.location.href;
+            const query = new URL(url).search;
+            if (query.includes(productIdParameter)) {
+                const productId = new URL(url).searchParams.get(productIdParameter);
+                showDetails(productId)
+            } else {
+                printFirstPage(productsArray)
+                createPagination(productsArray)
+            }
+        });
+}
 
 function printFirstPage(productArray) {
     const startIndex = (1 - 1) * productsPerPage;
@@ -98,12 +41,6 @@ function printFirstPage(productArray) {
     const productsToShow = productArray.slice(startIndex, endIndex);
     printProducts(productsToShow);
 }
-
-function startApp(productArray) {
-    printFirstPage(productArray)
-    createPagination(productArray)
-}
-
 
 function createPagination(productArray) {
     fatherPaginationContainer.innerHTML = "";
@@ -151,18 +88,21 @@ function createPagination(productArray) {
 
 
 function printProducts(products) {
+    const productsContainer = document.getElementById("products-container");
     productsContainer.innerHTML = "";
 
     let row = document.createElement("div");
     row.className = "row";
 
-
     products.forEach(function (product, index) {
+
+
         // Crear los elementos de la card
         const card = document.createElement("div");
         card.className = "card mb-3 col-md-6"; // Agregamos "col-md-6" para ocupar la mitad del ancho en pantallas medianas y grandes
 
-        if (product.id === undefined) {
+
+        if (product.description === undefined) {
 
             card.innerHTML = `
             <div class="row no-gutters">
@@ -172,8 +112,9 @@ function printProducts(products) {
                 <div class="col-md-8">
                     <div class="card-body">
                         <h5 class="card-title" style="font-family: 'American Typewriter',serif">${product.title}</h5>
-                        <p class="card-text" ><small class="text-muted">Reseña: disponible proximamente</small></p>
-                        <a class="btn btn-primary" style="color: white"  href="${product.link}">comprar en amazon</a>
+                        <p class="card-text" style="text-align: justify">REVIEW PROXIMAMENTE!</p>
+                        <p class="card-text" ><small class="text-muted">Precio: ${product.price}</small></p>
+                        <a class="btn btn-primary" style="color: white"  href="${product.link}">Ver en amazon</a>
                     </div>
                 </div>
             </div>
@@ -198,9 +139,7 @@ function printProducts(products) {
                 </div>
             </div>
         `;
-
         }
-
 
         if (index % 2 === 0 && index > 0) {
             productsContainer.appendChild(row);
@@ -215,8 +154,71 @@ function printProducts(products) {
     if (row.childElementCount > 0) {
         productsContainer.appendChild(row);
     }
+
+    // Agregar contenido de recomendaciones
+    // recommendationsContainer.innerHTML = `
+    //     <h3>Ultima review</h3>
+    //     <p>Aquí puedes agregar tu contenido de recomendaciones.</p>
+    // `;
 }
 
+//when click in lens
+document.getElementById("lensForm").addEventListener("submit", function (event) {
+    event.preventDefault();
+    let textFieldValue = document.getElementById("textField").value;
+    let products = searchProducts(textFieldValue, "title")
+    printFirstPage(products)
+    createPagination(products)
+});
+
+function searchProducts(keyword, field) {
+    const results = [];
+    for (let i = 0; i < productsJson.length; i++) {
+        const product = productsJson[i];
+        let productReference = product.category.toLowerCase();
+        if (field === "title") {
+            productReference = product.title.toLowerCase();
+        }
+        if (productReference.includes(keyword.toLowerCase())) {
+            results.push(product);
+        }
+    }
+    cleanUrl()
+    return results;
+}
+
+//Menu categories
+document.getElementById("modaLink").addEventListener("click", function (event) {
+    event.preventDefault();
+    let modaProducts = searchProducts("moda", "category")
+    printFirstPage(modaProducts)
+    createPagination(modaProducts)
+    cleanUrl()
+});
+
+document.getElementById("hogarLink").addEventListener("click", function (event) {
+    event.preventDefault();
+    let hogaProducts = searchProducts("hogar", "category")
+    printFirstPage(hogaProducts)
+    createPagination(hogaProducts)
+    cleanUrl()
+});
+
+document.getElementById("tecnologiaLink").addEventListener("click", function (event) {
+    event.preventDefault();
+    let tecProducts = searchProducts("tecnologia", "category")
+    printFirstPage(tecProducts)
+    createPagination(tecProducts)
+    cleanUrl()
+});
+
+document.getElementById("librosLink").addEventListener("click", function (event) {
+    event.preventDefault();
+    let tecProducts = searchProducts("libros", "category")
+    printFirstPage(tecProducts)
+    createPagination(tecProducts)
+    cleanUrl()
+});
 
 ////////////////////////////////////////////////////////////////////
 
@@ -246,6 +248,10 @@ function showDetails(id) {
             <a href="${productsJson[id].link}" class="btn btn-primary">Ver en Amazon</a>
         </div>
     `;
+
+    const url = new URL(window.location.href);
+    url.searchParams.set(productIdParameter, id);
+    history.replaceState({}, "", url.toString());
 }
 
 function truncateText(text) {
@@ -255,7 +261,6 @@ function truncateText(text) {
         return text;
     }
 }
-
 
 function displayAboutUs() {
     productsContainer.innerHTML = "";
@@ -282,48 +287,41 @@ function displayAboutUs() {
 `;
 
     productsContainer.appendChild(newDiv);
+}
 
-
-
+function cleanUrl(){
+    const url = new URL(window.location.href);
+    url.searchParams.delete(productIdParameter);
+    history.replaceState({}, "", url.toString());
 }
 
 
-// CREATE FAST A PRODUCT JSON FROM HTML SCRACHTPAD
-
-// createNextReviewProduct("<div class=\"paapi5-pa-ad-unit pull-left\"><div class=\"paapi5-pa-product-container\"><div class=\"paapi5-pa-product-image\"><div class=\"paapi5-pa-product-image-wrapper\"><a class=\"paapi5-pa-product-image-link\" href=\"https://www.amazon.es/dp/B097XVP7X8?tag=deconfi-21&amp;linkCode=ogi&amp;th=1&amp;psc=1\" title=\"VULKIT Billetera emergente con Bloqueo RFID, de Cuero Genuino con Compartimento para Tarjetas de crédito, Billetes, Ventana de identificación, Bolsillo para Monedas y Cierre magnético\" target=\"_blank\"></a><img class=\"paapi5-pa-product-image-source\" src=\"https://m.media-amazon.com/images/I/414xbeL1uXL._SL160_.jpg\" alt=\"VULKIT Billetera emergente con Bloqueo RFID, de Cuero Genuino con Compartimento para Tarjetas de crédito, Billetes, Ventana de identificación, Bolsillo para Monedas y Cierre magnético\"><span class=\"paapi5-pa-percent-off\">9%</span></div></div><div class=\"paapi5-pa-product-details\"><div class=\"paapi5-pa-product-title\"><a class=\"paap5-pa-product-title-link\" href=\"https://www.amazon.es/dp/B097XVP7X8?tag=deconfi-21&amp;linkCode=ogi&amp;th=1&amp;psc=1\" title=\"VULKIT Billetera emergente con Bloqueo RFID, de Cuero Genuino con Compartimento para Tarjetas de crédito, Billetes, Ventana de identificación, Bolsillo para Monedas y Cierre magnético\" target=\"_blank\">VULKIT Billetera emergente con Bloqueo RFID, de Cuero Genuino con Compartimento para Tarjetas de crédito, Billetes, Ventana de identificación, Bolsillo para Monedas y Cierre magnético</a></div><div class=\"paapi5-pa-product-list-price\"><span class=\"paapi5-pa-product-list-price-value\">44,99&nbsp;€</span></div><div class=\"paapi5-pa-product-prime-icon\"><span class=\"icon-prime-all\"></span></div></div></div></div>")
+/////////////////////////////////FAST PRODUCT CREATOR///////////////////////////////////
 
 
-function createNextReviewProduct(htmlString) {
-    if (htmlString.length > 0) {
-        const extractedData = extractLinksImagesAndTitle(htmlString);
-        const myJson = {
-            image: extractedData.src,
-            title: extractedData.title,
-            link: extractedData.href
-        };
+//createNextReview("<div class=\"paapi5-pa-ad-unit pull-left\"><div class=\"paapi5-pa-product-container\"><div class=\"paapi5-pa-product-image\"><div class=\"paapi5-pa-product-image-wrapper\"><a class=\"paapi5-pa-product-image-link\" href=\"https://www.amazon.es/dp/B09B8X9RGM?tag=deconfi-21&amp;linkCode=ogi&amp;th=1&amp;psc=1\" title=\"Echo Dot (5.ª generación, modelo de 2022) | Altavoz inteligente wifi y Bluetooth con Alexa, con sonido más potente y de mayor amplitud | Antracita\" target=\"_blank\"></a><img class=\"paapi5-pa-product-image-source\" src=\"https://m.media-amazon.com/images/I/51RcU+HQjSL._SL160_.jpg\" alt=\"Echo Dot (5.ª generación, modelo de 2022) | Altavoz inteligente wifi y Bluetooth con Alexa, con sonido más potente y de mayor amplitud | Antracita\"><span class=\"paapi5-pa-percent-off\">58%</span></div></div><div class=\"paapi5-pa-product-details\"><div class=\"paapi5-pa-product-title\"><a class=\"paap5-pa-product-title-link\" href=\"https://www.amazon.es/dp/B09B8X9RGM?tag=deconfi-21&amp;linkCode=ogi&amp;th=1&amp;psc=1\" title=\"Echo Dot (5.ª generación, modelo de 2022) | Altavoz inteligente wifi y Bluetooth con Alexa, con sonido más potente y de mayor amplitud | Antracita\" target=\"_blank\">Echo Dot (5.ª generación, modelo de 2022) | Altavoz inteligente wifi y Bluetooth con Alexa, con sonido más potente y de mayor amplitud | Antracita</a></div><div class=\"paapi5-pa-product-list-price\"><span class=\"paapi5-pa-product-list-price-value\">64,99&nbsp;€</span></div><div class=\"paapi5-pa-product-prime-icon\"><span class=\"icon-prime-all\"></span></div></div></div></div>")
 
-        const jsonString = `{ "image": "${myJson.image}", "title": "${myJson.title}", "link": "${myJson.link}" }`;
+function createNextReview(string) {
+    const document = new DOMParser().parseFromString(string, "text/html");
 
-        console.log(jsonString);
-    }
-}
+    const image = document.querySelector(".paapi5-pa-product-image-source").src;
+    const title = document.querySelector(".paapi5-pa-product-title").textContent;
+    const price = document.querySelector(".paapi5-pa-product-list-price-value").textContent;
+    const link = "paste here the link clean"
+    const category = "hogar";
 
-function extractLinksImagesAndTitle(htmlString) {
-    const parser = new DOMParser();
-    const doc = parser.parseFromString(htmlString, 'text/html');
-
-    const linkElement = doc.querySelector('.paapi5-pa-product-image-link');
-    const imageElement = doc.querySelector('.paapi5-pa-product-image-source');
-    const titleElement = doc.querySelector('.paap5-pa-product-title-link');
-
-    const linkHref = linkElement ? linkElement.getAttribute('href') : null;
-    const imageSrc = imageElement ? imageElement.getAttribute('src') : null;
-    const title = titleElement ? titleElement.textContent : null;
-
-    return {
-        href: linkHref,
-        src: imageSrc,
-        title: title
+    const product = {
+        image,
+        title,
+        price,
+        link,
+        category,
     };
+
+    console.log(JSON.stringify(product));
+
 }
+
+
+
 

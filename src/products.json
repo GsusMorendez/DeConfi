@@ -592,21 +592,33 @@
   {
     "image": "https://m.media-amazon.com/images/I/415gmOww63L._SL160_.jpg",
     "title": "Diario de Caca: Un diario divertidísimo en el que puedes juzgar tu experiencia en el retrete | Una gran idea de regalo para los amigos",
+    "category": "libros",
     "link": "https://www.amazon.es/dp/B0BXNCSN8Y?tag=deconfi-21&linkCode=ogi&th=1&psc=1"
   },
   {
     "image": "https://m.media-amazon.com/images/I/41ZLiTH5IJL._SL160_.jpg",
     "title": "FAC 946-RP/80 - Cerrojo UVE, acabado dorado",
-    "link": "https://www.amazon.es/dp/B00RI1IG8W?tag=deconfi-21&linkCode=ogi&th=1&psc=1"
+    "link": "https://www.amazon.es/dp/B00RI1IG8W?tag=deconfi-21&linkCode=ogi&th=1&psc=1",
+    "category": "hogar"
   },
   {
     "image": "https://m.media-amazon.com/images/I/51HHNldTPxL._SL160_.jpg",
     "title": "PULLUP & DIP Guantes De Agarre Fitness, Musculación, 1 Par De Almohadillas De Agarre De Neopreno, Almohadillas De Entrenamiento como Alternativa A Los Guantes De Entrenamiento para Un Agarre Máximo",
-    "link": "https://www.amazon.es/dp/B0784KVSDY?tag=deconfi-21&linkCode=ogi&th=1&psc=1"
+    "link": "https://www.amazon.es/dp/B0784KVSDY?tag=deconfi-21&linkCode=ogi&th=1&psc=1",
+    "category": "moda"
   },
   {
     "image": "https://m.media-amazon.com/images/I/414xbeL1uXL._SL160_.jpg",
     "title": "VULKIT Billetera emergente con Bloqueo RFID, de Cuero Genuino con Compartimento para Tarjetas de crédito, Billetes, Ventana de identificación, Bolsillo para Monedas y Cierre magnético",
-    "link": "https://www.amazon.es/dp/B097XVP7X8?tag=deconfi-21&linkCode=ogi&th=1&psc=1"
+    "link": "https://www.amazon.es/dp/B097XVP7X8?tag=deconfi-21&linkCode=ogi&th=1&psc=1",
+    "category": "moda"
+  },
+  {
+    "id": 35,
+    "image": "https://m.media-amazon.com/images/I/51RcU+HQjSL._SL160_.jpg",
+    "title": "Echo Dot (5.ª generación, modelo de 2022) | Altavoz inteligente wifi y Bluetooth con Alexa, con sonido más potente y de mayor amplitud | Antracita",
+    "price": "64,99 €",
+    "link": "https://www.amazon.es/echo-dot-2022/dp/B09B8X9RGM/?_encoding=UTF8&amp;pd_rd_w=0bAS7&amp;content-id=amzn1.sym.3a7306fe-daa0-4b4a-9249-d1fb14ff9ac7%253Aamzn1.symc.adba8a53-36db-43df-a081-77d28e1b71e6&amp;pf_rd_p=3a7306fe-daa0-4b4a-9249-d1fb14ff9ac7&amp;pf_rd_r=EPW15F0GZ75XRSV2818W&amp;pd_rd_wg=0f3k1&amp;pd_rd_r=ac37c109-a528-4b9d-aa3a-8113d961d559&amp;ref_=pd_gw_ci_mcx_mr_hp_atf_m&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=20f18efeb3a5e9f104e545a1e5609a0e&camp=3638&creative=24630",
+    "category": "hogar"
   }
 ]
