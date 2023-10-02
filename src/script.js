@@ -220,6 +220,12 @@ document.getElementById("librosLink").addEventListener("click", function (event)
     cleanUrl()
 });
 
+document.getElementById("inicioLink").addEventListener("click", function (event) {
+    event.preventDefault();
+    startApp()
+    cleanUrl()
+});
+
 ////////////////////////////////////////////////////////////////////
 
 
