@@ -640,5 +640,14 @@
     "price": "37,95€",
     "link": "https://www.amazon.es/dp/8418637013?ref_=cm_sw_r_apan_dp_5T286TNXB8V3TYW70GT0&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=91dd0693e31f600aad34caf97e9356b7&camp=3638&creative=24630",
     "category": "libros"
+  },
+
+  {
+    "id": 42,
+    "image": "https://m.media-amazon.com/images/I/41QrzcYuHfL._SL160_.jpg",
+    "title": "Babycalin - Set de 2 sábanas bajeras, 70cm x 140cm, Blanco/ Verde",
+    "price": "10,66€",
+    "link": "https://www.amazon.es/dp/B01NCISA10?ref_=cm_sw_r_apin_dp_3S5PWTXXAD21FKJBSCCT&amp;language=es-ES&amp;th=1&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=c62fea3184eccf514cdce6c888e8b4f3&camp=3638&creative=24630",
+    "category": "hogar"
   }
 ]
