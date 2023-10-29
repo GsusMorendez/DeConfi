@@ -313,7 +313,7 @@ function cleanUrl() {
 /////////////////////////////////FAST PRODUCT CREATOR///////////////////////////////////
 
 
-//createNextReview("<div class=\"paapi5-pa-ad-unit pull-left\"><div class=\"paapi5-pa-product-container\"><div class=\"paapi5-pa-product-image\"><div class=\"paapi5-pa-product-image-wrapper\"><a class=\"paapi5-pa-product-image-link\" href=\"https://www.amazon.es/dp/B01NCISA10?tag=deconfi-21&amp;linkCode=ogi&amp;th=1&amp;psc=1\" title=\"Babycalin - Set de 2 sábanas bajeras, 70cm x 140cm, Blanco/ Verde\" target=\"_blank\"></a><img class=\"paapi5-pa-product-image-source\" src=\"https://m.media-amazon.com/images/I/41QrzcYuHfL._SL160_.jpg\" alt=\"Babycalin - Set de 2 sábanas bajeras, 70cm x 140cm, Blanco/ Verde\"></div></div><div class=\"paapi5-pa-product-details\"><div class=\"paapi5-pa-product-title\"><a class=\"paap5-pa-product-title-link\" href=\"https://www.amazon.es/dp/B01NCISA10?tag=deconfi-21&amp;linkCode=ogi&amp;th=1&amp;psc=1\" title=\"Babycalin - Set de 2 sábanas bajeras, 70cm x 140cm, Blanco/ Verde\" target=\"_blank\">Babycalin - Set de 2 sábanas bajeras, 70cm x 140cm, Blanco/ Verde</a></div><div class=\"paapi5-pa-product-list-price\"><span class=\"paapi5-pa-product-list-price-value\"></span></div><div class=\"paapi5-pa-product-prime-icon\"><span class=\"icon-prime-all\"></span></div></div></div></div>")
+//createNextReview( )
 
 function createNextReview(string) {
     const document = new DOMParser().parseFromString(string, "text/html");
