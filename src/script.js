@@ -313,7 +313,7 @@ function cleanUrl() {
 /////////////////////////////////FAST PRODUCT CREATOR///////////////////////////////////
 
 
-//createNextReview( )
+// createNextReview( )
 
 function createNextReview(string) {
     const document = new DOMParser().parseFromString(string, "text/html");
