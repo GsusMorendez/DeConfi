@@ -313,7 +313,7 @@ function cleanUrl() {
 /////////////////////////////////FAST PRODUCT CREATOR///////////////////////////////////
 
 
-// createNextReview( )
+ //createNextReview()
 
 function createNextReview(string) {
     const document = new DOMParser().parseFromString(string, "text/html");
@@ -332,7 +332,9 @@ function createNextReview(string) {
         category,
     };
 
-    console.log(JSON.stringify(product));
+    console.log("hereeee ")
+
+    console.log(JSON.stringify(product) +" ee");
 
 }
 
