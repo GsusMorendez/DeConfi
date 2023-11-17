@@ -332,6 +332,7 @@ function createNextReview(string) {
         category,
     };
 
+
     console.log(JSON.stringify(product));
 
 }
