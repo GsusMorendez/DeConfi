@@ -332,9 +332,7 @@ function createNextReview(string) {
         category,
     };
 
-    console.log("hereeee ")
-
-    console.log(JSON.stringify(product) +" ee");
+    console.log(JSON.stringify(product));
 
 }
 
