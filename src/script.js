@@ -15,6 +15,12 @@ const productsContainer = document.getElementById("products-container");
 const fatherPaginationContainer = document.getElementById("pagination-container");
 
 
+
+const thisUrl = "<a target=\"_blank\" href=\"https://www.amazon.es/dp/B08CZ2J9HY?ref_=cm_sw_r_apin_dp_BTKVZQHNMGBD38EPJ303&amp;language=es-ES&amp;th=1&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=4fea867b8b31564dc534549489890739&camp=3638&creative=24630\">deconfi-21</a>"
+const thisDiv = "<div class=\"paapi5-pa-ad-unit pull-left\"><div class=\"paapi5-pa-product-container\"><div class=\"paapi5-pa-product-image\"><div class=\"paapi5-pa-product-image-wrapper\"><a class=\"paapi5-pa-product-image-link\" href=\"https://www.amazon.es/dp/B08CZ2J9HY?tag=deconfi-21&amp;linkCode=ogi&amp;th=1&amp;psc=1\" title=\"CYBEX Silver Silla de coche Pallas B-Fix, Para coches con y sin ISOFIX, Grupo 1/2/3 (9-36 kg), Desde aproximadamente 9 meses hasta 12 años, Rojo (Dynamic Red)\" target=\"_blank\"></a><img class=\"paapi5-pa-product-image-source\" src=\"https://m.media-amazon.com/images/I/41oBKiLUp+S._SL160_.jpg\" alt=\"CYBEX Silver Silla de coche Pallas B-Fix, Para coches con y sin ISOFIX, Grupo 1/2/3 (9-36 kg), Desde aproximadamente 9 meses hasta 12 años, Rojo (Dynamic Red)\"><span class=\"paapi5-pa-percent-off\">37%</span></div></div><div class=\"paapi5-pa-product-details\"><div class=\"paapi5-pa-product-title\"><a class=\"paap5-pa-product-title-link\" href=\"https://www.amazon.es/dp/B08CZ2J9HY?tag=deconfi-21&amp;linkCode=ogi&amp;th=1&amp;psc=1\" title=\"CYBEX Silver Silla de coche Pallas B-Fix, Para coches con y sin ISOFIX, Grupo 1/2/3 (9-36 kg), Desde aproximadamente 9 meses hasta 12 años, Rojo (Dynamic Red)\" target=\"_blank\">CYBEX Silver Silla de coche Pallas B-Fix, Para coches con y sin ISOFIX, Grupo 1/2/3 (9-36 kg), Desde aproximadamente 9 meses hasta 12 años, Rojo (Dynamic Red)</a></div><div class=\"paapi5-pa-product-list-price\"><span class=\"paapi5-pa-product-list-price-value\">179,95&nbsp;€</span></div><div class=\"paapi5-pa-product-prime-icon\"><span class=\"icon-prime-all\"></span></div></div></div></div>"
+
+
+
 startApp()
 
 
@@ -23,6 +29,9 @@ function startApp() {
         .then(response => response.json())
         .then(productsArray => {
             productsJson = productsArray
+
+            //createNextReview(thisUrl, thisDiv)
+
             const url = window.location.href;
             const query = new URL(url).search;
             if (query.includes(productIdParameter)) {
@@ -313,30 +322,35 @@ function cleanUrl() {
 /////////////////////////////////FAST PRODUCT CREATOR///////////////////////////////////
 
 
- //createNextReview()
 
-function createNextReview(string) {
+
+function createNextReview(url, string) {
     const document = new DOMParser().parseFromString(string, "text/html");
 
     const image = document.querySelector(".paapi5-pa-product-image-source").src;
     const title = document.querySelector(".paapi5-pa-product-title").textContent;
     const price = document.querySelector(".paapi5-pa-product-list-price-value").textContent;
-    const link = "paste here the link clean"
+    const link = extractURL(url)
     const category = "hogar";
+    const id = productsJson[productsJson.length-1].id+1
 
     const product = {
+        id,
         image,
         title,
         price,
         link,
         category,
     };
-
-
     console.log(JSON.stringify(product));
-
 }
 
-
-
+function extractURL(htmlString) {
+    const start = htmlString.indexOf("href=");
+    if (start === -1) {
+        return null;
+    }
+    const end = htmlString.indexOf("\"", start + 6);
+    return htmlString.slice(start + 6, end);
+}
 

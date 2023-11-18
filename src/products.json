@@ -704,5 +704,46 @@
     "price": "76,85 € (0,32 € / unidad)",
     "link": "https://www.amazon.es/dp/B082N3H868?ref_=cm_sw_r_apin_dp_9XASSV555PJ54T2ZV83R&amp;language=es-ES&amp;th=1&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=7cb61670251a4c7acfd8a8fba833d558&camp=3638&creative=24630",
     "category": "hogar"
+  },
+  {
+    "id": 50,
+    "image": "https://m.media-amazon.com/images/I/41FN82WRPXL._SL160_.jpg",
+    "title": "BugyKido Patinete Carro Bebe Universal, Patin Carro para Bebe Apto para el 99% de Todos los cochecitos, Tabla para Cochecito, Accesorio para Niños de 2 a 6 Años 25 kg, Negro",
+    "price": "45,52€",
+    "link": "https://www.amazon.es/dp/B0CGX7YD2R?ref_=cm_sw_r_apin_dp_7KEZ31WQDJH5CW81ZQKG&amp;language=es-ES&amp;th=1&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=4bf0737fcf881a9deada5522936a2058&camp=3638&creative=24630",
+    "category": "hogar"
+  },
+  {
+    "id": 51,
+    "image": "https://m.media-amazon.com/images/I/310fWSl5iuS._SL160_.jpg",
+    "title": "Cybex Gold Silla de coche Solution S2 i-Fix, Para coches con y sin ISOFIX, 100 - 150 cm, De 3 a 12 años aprox. (15-36 kg), Negro (Granite Black)",
+    "price": "199,95 €",
+    "link": "https://www.amazon.es/dp/B095SF66P4?ref_=cm_sw_r_apin_dp_NYJPPT041RY00QC2PFG6&amp;language=es-ES&amp;th=1&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=b4e69afceb45e12f12fed8a6284459bc&camp=3638&creative=24630",
+    "category": "hogar"
+  },
+  {
+    "id": 52,
+    "image": "https://m.media-amazon.com/images/I/41-St8uvqcL._SL160_.jpg",
+    "title": "Cybex Gold - Silla de coche Solution S-Fix, para coches con y sin Isofix, Grupo 2/3 (15-36 kg), Desde los 3 hasta los 12 años aprox., Rosa (Magnolia Pink)",
+    "price": "159,99 €",
+    "link": "https://www.amazon.es/dp/B07XP9DJVG?ref_=cm_sw_r_apin_dp_HKSG6T7147WZPXC5GQCP&amp;language=es-ES&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=a7b205ebb01041a9384825b9f58a0922&camp=3638&creative=24630",
+    "category": "hogar"
+  },
+  {
+    "id": 53,
+    "image": "https://m.media-amazon.com/images/I/31oDBOM8MFL._SL160_.jpg",
+    "title": "Cybex Gold - Silla de coche Solution S-Fix, para coches con y sin Isofix, Grupo 2/3 (15-36 kg), Desde los 3 hasta los 12 años aprox., Negro (Deep Black)",
+    "price": "151,76 €",
+    "link": "https://www.amazon.es/dp/B07XP3Y6L4?ref_=cm_sw_r_apin_dp_HKSG6T7147WZPXC5GQCP&amp;language=es-ES&amp;th=1&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=eba0dbff0dfb3f1f1800a7070548b054&camp=3638&creative=24630",
+    "category": "hogar"
+  },
+  {
+    "id": 54,
+    "image": "https://m.media-amazon.com/images/I/41oBKiLUp+S._SL160_.jpg",
+    "title": "CYBEX Silver Silla de coche Pallas B-Fix, Para coches con y sin ISOFIX, Grupo 1/2/3 (9-36 kg), Desde aproximadamente 9 meses hasta 12 años, Rojo (Dynamic Red)",
+    "price": "179,95 €",
+    "link": "https://www.amazon.es/dp/B08CZ2J9HY?ref_=cm_sw_r_apin_dp_BTKVZQHNMGBD38EPJ303&amp;language=es-ES&amp;th=1&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=4fea867b8b31564dc534549489890739&camp=3638&creative=24630",
+    "category": "hogar"
   }
 ]
+
