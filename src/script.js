@@ -16,8 +16,8 @@ const fatherPaginationContainer = document.getElementById("pagination-container"
 
 
 
-const thisUrl = "<a target=\"_blank\" href=\"https://www.amazon.es/dp/B0B5TNWNBR?ref_=cm_sw_r_apan_dp_5W20CY5FFX2WB4PSZJXN&amp;language=es-ES&amp;skipTwisterOG=1&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=490f274435a02d955feee8b9f216740b&camp=3638&creative=24630\">deconfi-21</a>"
-const thisDiv = "<div class=\"paapi5-pa-ad-unit pull-left\"><div class=\"paapi5-pa-product-container\"><div class=\"paapi5-pa-product-image\"><div class=\"paapi5-pa-product-image-wrapper\"><a class=\"paapi5-pa-product-image-link\" href=\"https://www.amazon.es/dp/B0B5TNWNBR?tag=deconfi-21&amp;linkCode=ogi&amp;th=1&amp;psc=1\" title=\"YATEICBC 36 piezas de rizadores de pelo pequeños con agarre automático, rizadores de peluquería, rodillos de pelo,rizadores de peluquería, herramientas para mujere,strae un peine de cola de rata\" target=\"_blank\"></a><img class=\"paapi5-pa-product-image-source\" src=\"https://m.media-amazon.com/images/I/51AgQAzxRsS._SL160_.jpg\" alt=\"YATEICBC 36 piezas de rizadores de pelo pequeños con agarre automático, rizadores de peluquería, rodillos de pelo,rizadores de peluquería, herramientas para mujere,strae un peine de cola de rata\"></div></div><div class=\"paapi5-pa-product-details\"><div class=\"paapi5-pa-product-title\"><a class=\"paap5-pa-product-title-link\" href=\"https://www.amazon.es/dp/B0B5TNWNBR?tag=deconfi-21&amp;linkCode=ogi&amp;th=1&amp;psc=1\" title=\"YATEICBC 36 piezas de rizadores de pelo pequeños con agarre automático, rizadores de peluquería, rodillos de pelo,rizadores de peluquería, herramientas para mujere,strae un peine de cola de rata\" target=\"_blank\">YATEICBC 36 piezas de rizadores de pelo pequeños con agarre automático, rizadores de peluquería, rodillos de pelo,rizadores de peluquería, herramientas para mujere,strae un peine de cola de rata</a></div><div class=\"paapi5-pa-product-list-price\"><span class=\"paapi5-pa-product-list-price-value\"></span></div><div class=\"paapi5-pa-product-prime-icon\"><span class=\"icon-prime-all\"></span></div></div></div></div>"
+const thisUrl = "<a target=\"_blank\" href=\"https://www.amazon.es/dp/B0B5G7Q336?ref=cm_sw_r_apan_dp_91JYWWEY6X1W3EC8C9N6&amp;ref_=cm_sw_r_apan_dp_91JYWWEY6X1W3EC8C9N6&amp;social_share=cm_sw_r_apan_dp_91JYWWEY6X1W3EC8C9N6&amp;language=es-ES&amp;skipTwisterOG=1&_encoding=UTF8&tag=deconfi-21&linkCode=ur2&linkId=a5d1244af9bac504e22eccfa78a3ac61&camp=3638&creative=24630\">deconfi-21</a>"
+const thisDiv = ""
 
 
 
@@ -30,7 +30,7 @@ function startApp() {
         .then(productsArray => {
             productsJson = productsArray
 
-            createNextReview(thisUrl, thisDiv)
+            //createNextReview(thisUrl, thisDiv)
 
             const url = window.location.href;
             const query = new URL(url).search;
