@@ -1200,5 +1200,37 @@
     "price": "22,99€",
     "link": "https://amzn.to/3Z3zzid",
     "category": "moda"
+  },
+  {
+    "id": 112,
+    "image":"https://m.media-amazon.com/images/I/51kCLxGJ3OL._AC_SX569_.jpg" ,
+    "title": "INOLAB MAGNESIO B6 |4 Mg Sinérgico 1980mg/día= Bisglicinato + Malato + Vegetal Orgánico + Taurina Quelada| 300mg de Mg puro/día |Tolerancia y Asimilación superior al Mg Marino",
+    "price": "19,30€",
+    "link": "https://www.amazon.es/dp/B08GYGH8RN?social_share=cm_sw_r_cp_ud_dp_EDDSVNN4T2H6NHG2S9RK&skipTwisterOG=1&linkCode=ll1&tag=deconfi-21&linkId=806e328618d85871a214c3ed2d45dcaa&language=es_ES&ref_=as_li_ss_tl",
+    "category": "hogar"
+  },
+  {
+    "id": 113,
+    "image":"https://m.media-amazon.com/images/I/51kCLxGJ3OL._AC_SX569_.jpg" ,
+    "title": "INOLAB MAGNESIO B6 |4 Mg Sinérgico 1980mg/día= Bisglicinato + Malato + Vegetal Orgánico + Taurina Quelada| 300mg de Mg puro/día |Tolerancia y Asimilación superior al Mg Marino\n",
+    "price": "19,30€",
+    "link": "https://amzn.to/3MCEtv7",
+    "category": "hogar"
+  },
+  {
+    "id": 114,
+    "image":"https://m.media-amazon.com/images/I/61uob7PJQcL._AC_SX466_.jpg" ,
+    "title": "Agua Marina 5 L Naturitas Essentials | Ideal para beber y cocinar | Sin aditivos | Microfiltrada en frío | Agua de la Costa Brava | En contenedor de fibra",
+    "price": "11,04€",
+    "link": "https://amzn.to/4gpRk1s",
+    "category": "hogar"
+  },
+  {
+    "id": 115,
+    "image":"https://m.media-amazon.com/images/I/5153-FmqIlL._AC_SX569_.jpg" ,
+    "title": "TiMOVO Lápiz óptico EMR Compatible con Remarkable 2 con Borrador, Lápiz de EMR con 4096 Sensibilidad Inclinación Rechazo de Palma para Remarkable 1&2/Galaxy/Boox/Scribe Tablet Dispositivos EMR",
+    "price": "39,99€",
+    "link": "https://amzn.to/4cXWVsN",
+    "category": "tecnologia"
   }
 ]
