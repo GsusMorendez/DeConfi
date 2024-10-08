@@ -1264,5 +1264,69 @@
     "price": "51,99€",
     "link": "https://amzn.to/3zfr49h",
     "category": "tecnologia"
+  },
+  {
+    "id": 119,
+    "image": "https://m.media-amazon.com/images/I/71Cj09b1pIL._AC_SX569_.jpg",
+    "title": "Mattel Disney Princess Jasmín Muñeca princesa película Aladdin, juguete +3 años (HLW12)",
+    "price": "12,09€",
+    "link": "https://amzn.to/4dD0kxp",
+    "category": "tecnologia"
+  },
+  {
+    "id": 120,
+    "image": "https://m.media-amazon.com/images/I/61py8Uc2ZoL._AC_SX569_.jpg",
+    "title": "Mattel Disney Princess Pocahontas Muñeca princesa con pelo largo, juguete +3 años (HLW07)",
+    "price": "11,99€",
+    "link": "https://amzn.to/4gSiEW9",
+    "category": "tecnologia"
+  },
+  {
+    "id": 121,
+    "image": "https://m.media-amazon.com/images/I/71Xh+j1p4xL._AC_SX569_.jpg",
+    "title": "Mattel Disney Princess Tiana Muñeca princesa película Tiana y el sapo, juguete +3 años (HLW04)",
+    "price": "11,99€",
+    "link": "https://amzn.to/3YdbxjT",
+    "category": "tecnologia"
+  },
+  {
+    "id": 122,
+    "image": "https://m.media-amazon.com/images/I/71BZkvMG7sL._AC_SX569_.jpg",
+    "title": "Mattel Disney Princess Blancanieves Muñeca princesa con pelo corto, juguete +3 años (HLW08)",
+    "price": "11,99€",
+    "link": "https://amzn.to/3ZUBupy",
+    "category": "tecnologia"
+  },
+  {
+    "id": 123,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71HWIDwfsbL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "title": "Mattel Disney Princess Mulán Muñeca princesa con pelo largo, juguete +3 años (HLW14)",
+    "price": "11,99€",
+    "link": "https://amzn.to/4eTIhnP",
+    "category": "tecnologia"
+  },
+  {
+    "id": 124,
+    "image": "https://m.media-amazon.com/images/I/713e0vlinFL._AC_SX569_.jpg",
+    "title": "Furby Furblets, Miniamigo Luv-Lee, Más de 45 Sonidos, Música K-Pop y Frases en Furbish, Peluche electrónico para niños y niñas a Partir de 6 años, Lila y Azul",
+    "price": "9,02€",
+    "link": "https://amzn.to/3BxaCSm",
+    "category": "tecnologia"
+  },
+  {
+    "id": 125,
+    "image": "https://m.media-amazon.com/images/I/71bciot3TQL._AC_SX569_.jpg",
+    "title": "Furby Furblets, Miniamigo Hip-Bop, Más de 45 Sonidos, Música Hip-Pop y Frases en Furbish, Peluche electrónico para niños y niñas a Partir de 6 años, Rosado y Lila",
+    "price": "9,14€",
+    "link": "https://amzn.to/47UOspn",
+    "category": "tecnologia"
+  },
+  {
+    "id": 126,
+    "image": "https://m.media-amazon.com/images/I/61bHutsjKFL._AC_SX569_.jpg",
+    "title": "Medisana MCN Fundas de asiento de masaje Shiatsu, Masaje de espalda y cuello, Incluye función de calor, 3 intensidades, Masaje localizado con función de luz roja, Idóneo para el hogar y la oficina",
+    "price": "98,83€",
+    "link": "https://amzn.to/3BzLGtL",
+    "category": "tecnologia"
   }
 ]
