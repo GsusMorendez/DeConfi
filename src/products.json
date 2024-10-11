@@ -1328,5 +1328,13 @@
     "price": "98,83€",
     "link": "https://amzn.to/3BzLGtL",
     "category": "tecnologia"
+  },
+  {
+    "id": 128,
+    "image": "https://m.media-amazon.com/images/I/51H3JfPignL._AC_SX569_.jpg",
+    "title": "Earon forte │30 cápsulas │Complemento alimenticio para Molestias auditivas",
+    "price": "20,85€",
+    "link": "https://amzn.to/400s0cj",
+    "category": "tecnologia"
   }
 ]
