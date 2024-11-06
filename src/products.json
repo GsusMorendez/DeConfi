@@ -1336,5 +1336,61 @@
     "price": "20,85€",
     "link": "https://amzn.to/400s0cj",
     "category": "tecnologia"
+  },
+  {
+    "id": 129,
+    "image": "https://m.media-amazon.com/images/I/81Vps254hkL._AC_SX425_.jpg",
+    "title": "50g pegamento instantáneo extra fuerte | Con punta anti-secado incluida | KRAFTPROTZ | Pegamento liquido superpotente | Universalmente aplicable para plástico, vidrio, madera, piedra, metal y más",
+    "price": "6,64€",
+    "link": "https://amzn.to/3UFeW8K",
+    "category": "tecnologia"
+  },
+  {
+    "id": 130,
+    "image": "https://m.media-amazon.com/images/I/61dCSmJJBFL._AC_SX569_.jpg",
+    "title": "Winsor & Newton Galeria Pincel para acrílico, Madera, Nº1",
+    "price": "6,92€",
+    "link": "https://amzn.to/4elj593",
+    "category": "tecnologia"
+  },
+  {
+    "id": 131,
+    "image": "https://m.media-amazon.com/images/I/41G5jEjtNzL._AC_SX569_.jpg",
+    "title": "Winsor & Newton Galeria Pincel para acrílico, Madera, Nº0",
+    "price": "6,92€",
+    "link": "https://amzn.to/4fAjkOt",
+    "category": "tecnologia"
+  },
+  {
+    "id": 132,
+    "image": "https://m.media-amazon.com/images/I/61351nl99uL._AC_SX569_.jpg",
+    "title": "Zimoer Juego De Bisturí, Juego De Cuchillos Precisión, Cuchillos De Arte De Acero Inoxidable De Precisión, Cutter Precision, Cutter Manualidades, Escalpelo,con 2 Asas 20 Recambio Cuchilla (Rojo)",
+    "price": "6,92€",
+    "link": "https://amzn.to/3YSG5HS",
+    "category": "tecnologia"
+  },
+  {
+    "id": 133,
+    "image": "https://m.media-amazon.com/images/I/51-xhUmQfHL._AC_SY879_.jpg",
+    "title": "The Army Painter | Miniature and Model Files | Juego de 3 limas de diamante de lima redonda, lima plana y lima metálica triangular para plástico, resina y metal | para juego de rol, pintura de modelo",
+    "price": "9,99€",
+    "link": "https://www.amazon.es/Army-Painter-Miniature-Model-Files/dp/B07NMVN923?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2FG29MPS2IQF&dib=eyJ2IjoiMSJ9.XGKdWBvtQ540yw_Wb9clyxjtrKcTjl_duzjOEUfSgmZd6370mBXTjeKJYISlhnPVY34IAjY1m9Ax16unltA3O-xIVuiF7SH_H56kjuoa8x-EL_gdnx2rlsvTFE-tGaHQwF9Rf35pTCoLsGqCUl7OOB6nDeDyRBUiqYoJRyvDyJ21cI4m4X3R0biQaDiprU48bvjifkQlrGYyES2p_xd_3zfsmKXt5qvucHUrMH_7BYRhUqJ4Jr60xTszcQL09IdFBUKszHazQLT8xPQwxOdgdtpSKlf78uFfDmX02fxDUyM.lqjCmMMew7QeHBh40lM8OrP3ZqU3s7U56JInny78hp4&dib_tag=se&keywords=lima+miniaturas&qid=1730837684&s=kitchen&sprefix=lima+miniaturas%2Ckitchen%2C91&sr=1-1&linkCode=ll1&tag=deconfi-21&linkId=2d55bcb48b0cea0e2be53193591a5951&language=es_ES&ref_=as_li_ss_tl",
+    "category": "tecnologia"
+  },
+  {
+    "id": 134,
+    "image": "https://m.media-amazon.com/images/I/71h85dql5KL._AC_SX569_.jpg",
+    "title": "Vallejo Game Color Set de Pintura Acrílica Introduction. Kit de 16 Colores de Acabado Mate y Metalizado en Botellas de 18 Ml con Cuentagotas. Estuche de Iniciación para Figuras de Fantasía y Wargame",
+    "price": "42,16€",
+    "link": "https://amzn.to/4eljuZ7",
+    "category": "tecnologia"
+  },
+  {
+    "id": 135,
+    "image": "https://m.media-amazon.com/images/I/51RMwANcbJL._AC_SY450_.jpg",
+    "title": "Vallejo Hobby Paint Spray Gris 400 Ml. Imprimación en Spray para Modelismo y Maquetas de Acabado Mate y Autonivelante. Capa Base en Aerosol con 2 Difusores",
+    "price": "14,16€",
+    "link": "https://amzn.to/3NTocCH",
+    "category": "tecnologia"
   }
 ]
