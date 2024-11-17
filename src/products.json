@@ -1424,5 +1424,29 @@
     "price": "35,99€",
     "link": "https://amzn.to/3ZchzBX",
     "category": "tecnologia"
+  },
+  {
+    "id": 140,
+    "image": "https://m.media-amazon.com/images/I/61BKTvqzNmL._AC_.jpg",
+    "title": "Todos los países 1000 Sellos de Colección diferentes",
+    "price": "23,99€",
+    "link": "https://amzn.to/3UTHT0Q",
+    "category": "libros"
+  },
+  {
+    "id": 141,
+    "image": "https://m.media-amazon.com/images/I/711Hf7rJhFL._SX425_.jpg",
+    "title": "Highway To Hell",
+    "price": "22,99€",
+    "link": "https://amzn.to/3Cq0Uld",
+    "category": "tecnologia"
+  },
+  {
+    "id": 142,
+    "image": "https://m.media-amazon.com/images/I/71SswRoteVL._SX425_.jpg",
+    "title": "Bohemian Rhapsody, The Music Of Queen",
+    "price": "15,50€",
+    "link": "https://amzn.to/3AHevEr",
+    "category": "tecnologia"
   }
 ]
