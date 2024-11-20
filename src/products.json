@@ -1464,5 +1464,21 @@
     "price": "55,00€",
     "link": "https://amzn.to/3AFKt3X",
     "category": "tecnologia"
+  },
+  {
+    "id": 145,
+    "image": "https://m.media-amazon.com/images/I/51MlbGpRX6L._AC_SX569_.jpg",
+    "title": "SALKING 2-en-1 Humidificador Aceites Esenciales & Lámpara de Sal del Himalaya Natural, Difusor Ultrasonico de Aceite Esenciales con Función de Apagado Automático, 150 ml (Mármol)",
+    "price": "50,00€",
+    "link": "https://amzn.to/3CMYVHN",
+    "category": "tecnologia"
+  },
+  {
+    "id": 146,
+    "image": "https://m.media-amazon.com/images/I/81pd4isufHL._AC_SX466_PIbundle-10,TopRight,0,0_SH20_.jpg",
+    "title": "STARBUCKS Blonde Espresso Roast Variety Pack de Nespresso, Cápsulas de Café 10 x 10 (100 Cápsulas) - Exclusivo en Amazon",
+    "price": "32,00€",
+    "link": "https://amzn.to/4hVlavs",
+    "category": "hogar"
   }
 ]
