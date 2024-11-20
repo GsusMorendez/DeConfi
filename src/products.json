@@ -1456,5 +1456,13 @@
     "price": "29,99€",
     "link": "https://amzn.to/3Zl68YN",
     "category": "hogar"
+  },
+  {
+    "id": 144,
+    "image": "https://m.media-amazon.com/images/I/617psPDxTLL._AC_SX679_.jpg",
+    "title": "CMF by Nothing Watch Pro 2 Reloj intelligente con Pantalla AMOLED de 1.32\", 11 días de duración de la batería, Llamadas por Bluetooth con reducción de Ruido por IA y GPS multisistema - Gris Oscuro",
+    "price": "55,00€",
+    "link": "https://amzn.to/3AFKt3X",
+    "category": "tecnologia"
   }
 ]
