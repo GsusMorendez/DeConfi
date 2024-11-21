@@ -1504,5 +1504,21 @@
     "price": "20,00€",
     "link": "https://amzn.to/4fu1k8V",
     "category": "hogar"
+  },
+  {
+    "id": 150,
+    "image": "https://m.media-amazon.com/images/I/61TL+ei3-ZL._AC_SX569_.jpg",
+    "title": "Linsoul KZ ZS10 Pro 4BA+1DD - Auriculares intraurales de Metal HiFi con Placa Frontal de Acero Inoxidable, Cable Desmontable de 2 Pines",
+    "price": "43,00€",
+    "link": "https://amzn.to/4fxORRA",
+    "category": "tecnologia"
+  },
+  {
+    "id": 151,
+    "image": "https://m.media-amazon.com/images/I/A18VLKrTQ5L._AC_SX569_.jpg",
+    "title": "TITANWOLF – Alfombrilla Gaming XXL para ratón 1200x600 – Mouse Pad - Precisión y Velocidad - Parte Inferior de Goma para una sujeción Estable - Antideslizante, Resistente al Agua – Motivo Koi Tattoo",
+    "price": "33,00€",
+    "link": "https://amzn.to/4fCYGOi",
+    "category": "hogar"
   }
 ]
