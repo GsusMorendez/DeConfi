@@ -1520,5 +1520,13 @@
     "price": "33,00€",
     "link": "https://amzn.to/4fCYGOi",
     "category": "hogar"
+  },
+  {
+    "id": 152,
+    "image": "https://m.media-amazon.com/images/I/611vXhswOeL._AC_SX679_.jpg",
+    "title": "BIO Probióticos Para Niños Vegavero® | Flora Intestinal | Con Inulina | Bifidobacterium Infantis + Bifidobacterium Lactis + Lactobacillus Reuteri + Streptococcus Thermophilus | 75g en Polvo",
+    "price": "20,91€",
+    "link": "https://amzn.to/499dJfX",
+    "category": "hogar"
   }
 ]
