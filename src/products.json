@@ -1528,5 +1528,21 @@
     "price": "20,91€",
     "link": "https://amzn.to/499dJfX",
     "category": "hogar"
+  },
+  {
+    "id": 153,
+    "image": "https://m.media-amazon.com/images/I/71T1h9TM4kL._AC_SX500_.jpg",
+    "title": "Chicco Pantuflas Niña Casa y Guardería, Babuchas Niña Cómodas, Flexibles, Transpirables y Ligeras, Zapatillas Casa Bebé Niña, Diseñado en Italia",
+    "price": "13,99€",
+    "link": "https://amzn.to/3Bd3E58",
+    "category": "moda"
+  },
+  {
+    "id": 154,
+    "image": "https://m.media-amazon.com/images/I/518kPBUkhQL._AC_SX569_.jpg",
+    "title": "Polti Vaporella 535 Eco Pro, Plancha de Vapor con Caldera de Alta Presión de 4 Bares, Potencia 1750 W, Tapón de Seguridad, Función Eco, Color Blanco y Verde",
+    "price": "84,99€",
+    "link": "https://amzn.to/3Z67XHG",
+    "category": "hogar"
   }
 ]
