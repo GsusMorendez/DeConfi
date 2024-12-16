@@ -1544,5 +1544,13 @@
     "price": "84,99€",
     "link": "https://amzn.to/3Z67XHG",
     "category": "hogar"
+  },
+  {
+    "id": 155,
+    "image": "https://m.media-amazon.com/images/I/7197n+yBMkL._AC_SL1500_.jpg",
+    "title": "Collar Antiparasitario para Perros, Collar Antipulgas Perros, Natural 24 Meses de ProteccióN con Collar de Pulgas y Garrapatas para Perro, Impermeable Control Antipulgas Collar Negro-Rosa-Naranja",
+    "price": "16,99€",
+    "link": "https://amzn.to/4ggp7tr",
+    "category": "hogar"
   }
 ]
