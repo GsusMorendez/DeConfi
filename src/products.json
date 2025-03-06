@@ -1560,5 +1560,21 @@
     "price": "28,22€",
     "link": "https://amzn.to/4hFKh4G",
     "category": "hogar"
+  },
+  {
+    "id": 157,
+    "image": "https://m.media-amazon.com/images/I/81px5vV71lL._SX522_.jpg",
+    "title": "Van Damme Pro Grade Classic XKE - Cable de conexión de pedal de efectos de guitarra bajo ultra-flexible multi-Shielded con conectores TS Eminence R/angulados dorados de ¼ pulgadas y botas escalonadas",
+    "price": "23,33€",
+    "link": "https://amzn.to/3QMWadn",
+    "category": "hogar"
+  },
+  {
+    "id": 158,
+    "image": "https://m.media-amazon.com/images/I/71Ql7WYsomL._AC_SX425_.jpg",
+    "title": "keepdrum GC028 - Cable de conexión (conector jack de 6,3 mm, 60 cm)\n",
+    "price": "15,35€",
+    "link": "https://amzn.to/3XvvMbS",
+    "category": "hogar"
   }
 ]
