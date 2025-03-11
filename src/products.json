@@ -1576,5 +1576,13 @@
     "price": "15,35€",
     "link": "https://amzn.to/3XvvMbS",
     "category": "hogar"
+  },
+  {
+    "id": 159,
+    "image": "https://m.media-amazon.com/images/I/71zbub7jorL._AC_SX679_.jpg",
+    "title": "Kit Pintura con 34 piezas - 24 Tubos de Pintura Acrilica, 6 Pinceles Pintura, Lienzo para Pintar 24x30cm, 1 Caballete Pintura, Espátula y Paleta Pintura",
+    "price": "32,99€",
+    "link": "https://amzn.to/3DsSTgr",
+    "category": "hogar"
   }
 ]
