@@ -1584,5 +1584,13 @@
     "price": "32,99€",
     "link": "https://amzn.to/3DsSTgr",
     "category": "hogar"
+  },
+  {
+    "id": 160,
+    "image": "https://m.media-amazon.com/images/I/71i8U5bMgwL._AC_SX679_.jpg",
+    "title": "UCAMP Kit de Pintura,Set de pintura con 44 piezas,Caballetes para Mesa,con 24 Colores Tubos de Pintura Acrilica,12 Pinceles,Espátula,Delantales,Paleta y 3 Lienzo,para Pintar para Profis y A ficionados",
+    "price": "36,99€",
+    "link": "https://amzn.to/4iDeKkk",
+    "category": "hogar"
   }
 ]
