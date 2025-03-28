@@ -1592,5 +1592,13 @@
     "price": "36,99€",
     "link": "https://amzn.to/4iDeKkk",
     "category": "hogar"
+  },
+  {
+    "id": 161,
+    "image": "https://m.media-amazon.com/images/I/51UTUI5tWIL._AC_SX679_.jpg",
+    "title": "Auriculares In Ear con Cable y Microfono,Auricular con 3.5MM Jack,Cascos Musica con Graves Potentes,Compatible con iPhone,iPad,Samsung,Huawei MP3 y Todos los Deportivos de Auriculares de 3,5 mm 2 Pack",
+    "price": "9,99€",
+    "link": "https://amzn.to/4j6K7Ul",
+    "category": "hogar"
   }
 ]
