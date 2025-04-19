@@ -1608,5 +1608,29 @@
     "price": "34,99€",
     "link": "https://amzn.to/42cPVpZ",
     "category": "moda"
+  },
+  {
+    "id": 163,
+    "image": "https://m.media-amazon.com/images/I/81JIGU8UzWL._AC_SX425_.jpg",
+    "title": "RAW REVIVAL - Champú solido Romero | Anticaspa + Dermatitis Seborreica | Sin sulfatos ni parabenos | Pelo graso + Equilibrio del pH | Vegano | Ingredientes naturales - 80 gr",
+    "price": "11,39€",
+    "link": "https://amzn.to/440wwtF",
+    "category": "hogar"
+  },
+  {
+    "id": 164,
+    "image": "https://m.media-amazon.com/images/I/71kgf7ZrSLL._AC_SX679_.jpg",
+    "title": "Himalaya Ayurvedic Dental Cream Herbal Toothpaste - Neem & pomegranate Gum protection |Helps fight Plague, Cavity and prevents tooth decay | with natural fluoride - 100g",
+    "price": "2,69€",
+    "link": "https://amzn.to/4lF3l5x",
+    "category": "hogar"
+  },
+  {
+    "id": 165,
+    "image": "https://m.media-amazon.com/images/I/61Hg7UzryBL._AC_SX679_PIbundle-10,TopRight,0,0_SH20_.jpg",
+    "title": "iLamvie Cepillo de dientes de bambú,10 piezas,cepillo dientes,6 cepillo de dientes suave y 4 cepillo de dientes de pelo duro,cerdas suaves naturales, ecológicas y 100% biodegradables",
+    "price": "5,99€",
+    "link": "https://amzn.to/44ELllE",
+    "category": "hogar"
   }
 ]
