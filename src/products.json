@@ -1632,5 +1632,13 @@
     "price": "5,99€",
     "link": "https://amzn.to/44ELllE",
     "category": "hogar"
+  },
+  {
+    "id": 166,
+    "image": "https://m.media-amazon.com/images/I/61w6YJS25FL._AC_SX679_.jpg",
+    "title": "Bandini® Levadura de Arroz Rojo a partir de Monascus purpureus | 99,7mg de arroz rojo - 2,9mg de Monacolina K | Sin aditivos, vegano, sin OGM | Antioxidante | 90 Comprimidos fáciles de tragar",
+    "price": "9,40€",
+    "link": "https://amzn.to/4jEKZQN",
+    "category": "hogar"
   }
 ]
