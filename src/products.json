@@ -1664,5 +1664,13 @@
     "price": "27,99€",
     "link": "https://amzn.to/4lFJXEY",
     "category": "hogar"
+  },
+  {
+    "id": 170,
+    "image": "https://m.media-amazon.com/images/I/81wBuVBfXgL._AC_SX679_.jpg",
+    "title": "RUXINGX Reloj Inteligente Mujer con Batería 1000mAh, Autonomía Ultra-Larga 100 Días, 1.83\" Smartwatch Llamadas 24H Pulsómetro/SpO2/Sueño, 120+ Modos Deportivo Podómetro Calorías IP68 iOS Android Rosa",
+    "price": "59,99€",
+    "link": "https://amzn.to/4m7Bfzk",
+    "category": "hogar"
   }
 ]
