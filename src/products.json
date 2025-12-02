@@ -1688,5 +1688,37 @@
     "price": "39,99€",
     "link": "https://amzn.to/4iqAK2E",
     "category": "moda"
+  },
+  {
+    "id": 172,
+    "image": "https://m.media-amazon.com/images/I/51MOEqb58XL._AC_SX679_.jpg",
+    "title": "TUXINSUN Batería Externa 20000mAh, 22.5W Power Bank PD3.0 QC4.0 Carga Rápida, Powerbank USB C Entrada Salida, Pantalla LCD Grande y Compacto para i-Phone (P11D)",
+    "price": "10,99€",
+    "link": "https://amzn.to/3Y6hz4M",
+    "category": "hogar"
+  },
+  {
+    "id": 173,
+    "image": "https://m.media-amazon.com/images/I/71tZQ1DgA0L._AC_SY695_.jpg",
+    "title": "Botines Planos de Mujer Calidos con Forro de Pelo, Suela Antideslizante, Adorno de Cremallera, Punta Redonda, Invierno",
+    "price": "29,99€",
+    "link": "https://amzn.to/3Xufcc0",
+    "category": "moda"
+  },
+  {
+    "id": 174,
+    "image": "https://m.media-amazon.com/images/I/713dKN7fEzL._AC_SY695_.jpg",
+    "title": "SAGUARO Barefoot Botas Invierno Cálido Botines Nieve pour Hombre Mujer Gr.36-48",
+    "price": "59,99€",
+    "link": "https://amzn.to/44J8anv",
+    "category": "moda"
+  },
+  {
+    "id": 175,
+    "image": "https://m.media-amazon.com/images/I/71Bzjhn-FcL._AC_SX679_.jpg",
+    "title": "Clasificador de 60 Paginas, color negro",
+    "price": "40,99€",
+    "link": "https://amzn.to/43XoYHi",
+    "category": "moda"
   }
 ]
