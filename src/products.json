@@ -1729,12 +1729,20 @@
     "link": "https://amzn.to/3Mwaus4",
     "category": "tecnologia"
   },
-    {
+  {
     "id": 177,
     "image": "https://m.media-amazon.com/images/I/71Bzjhn-FcL._AC_SX679_.jpg",
     "title": "PERPLEXUS - Rompecabezas PERPLEXUS Rebel: Bola Laberinto 3D con 70 Obstáculos - Juguetes Niños 8 años + - Regalo Niños 8 Años + - Juego de Ingenio ",
     "price": "13,99€",
     "link": "https://amzn.to/3YnXc3g",
     "category": "tecnologia"
+  },
+  {
+    "id": 178,
+    "image": "https://m.media-amazon.com/images/I/61mw9H2LFhL._AC_SX679_.jpg",
+    "title": "Funko Pop! Animation: JJK - 2 Pack Yuji Itadori & Todo - Jujutsu Kaisen - Figura de Vinilo Coleccionable - Idea de Regalo- Mercancia Oficial - Juguetes para Niños y Adultos - Anime Fans",
+    "price": "29,99€",
+    "link": "https://amzn.to/4pKlmkQ",
+    "category": "moda"
   }
 ]
