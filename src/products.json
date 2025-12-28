@@ -1752,5 +1752,29 @@
     "price": "16,24€",
     "link": "https://amzn.to/3XUnf1S",
     "category": "hogar"
+  },
+  {
+    "id": 180,
+    "image": "https://m.media-amazon.com/images/I/81jNNVPDdrL._SY466_.jpg",
+    "title": "The Black Legion nº 01/02 La Garra de Horus",
+    "description": [
+      "La Garra de Horus es la primera novela de la serie The Black Legion, que forma parte del universo de Warhammer 40.000.",
+      "Cuando Horus cae, sus hijos caen con él. Con su legión destruida, acosados por las rivalidades y perseguidos por sus antiguos aliados, los que fueron Luna Wolves se encuentran desperdigados por el siniestro reino del Ojo del Terror."
+    ],
+    "price": "7,59€ Kindle / 19,90€ Tapa blanda",
+    "link": "https://amzn.to/4s86azk",
+    "category": "libros"
+  },
+  {
+    "id": 181,
+    "image": "https://m.media-amazon.com/images/I/71cFDbDv6JL._SY466_.jpg",
+    "title": "Black Legion nº 2/2 (The Black Legion 2)",
+    "description": [
+      "La esperada segunda entrega de la serie de la Black Legion (Warhammer).",
+      "Ezekyle Abbadon y sus señores de la guerra intentan unir a la recién nacida Black Legion para evitar su destrucción."
+    ],
+    "price": "7,59€ Kindle / 19,90€ Tapa blanda",
+    "link": "https://amzn.to/4q8loTq",
+    "category": "libros"
   }
 ]
