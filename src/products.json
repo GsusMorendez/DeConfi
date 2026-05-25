@@ -1816,5 +1816,29 @@
     "price": "3,98€",
     "link": "https://amzn.to/4cG4qb4",
     "category": "hogar"
+  },
+  {
+    "id": 188,
+    "image": "https://m.media-amazon.com/images/I/712ROO2dbgL._AC_SL1500_.jpg",
+    "title": "PIKOLIN Home - Almohada Viscoelástica de Piernas | 40x20 cm | Firmeza Media | Ergonómica | Adaptable | Transpirable | Color Azul",
+    "price": "22,74€",
+    "link": "https://amzn.to/3PJSL21",
+    "category": "hogar"
+  },
+  {
+    "id": 189,
+    "image": "https://m.media-amazon.com/images/I/71wmkYbaIIL._AC_SL1500_.jpg",
+    "title": "Omega 3 Vegano OMEGOR Veg (60 Cápsulas) Omega3 Algas Marinas Certificado IFOS y Vegan Society - EPA y DHA con Vitamina E",
+    "price": "24,26€",
+    "link": "https://amzn.to/4v15yMy",
+    "category": "hogar"
+  },
+  {
+    "id": 190,
+    "image": "https://m.media-amazon.com/images/I/61InHyWqfAL._AC_SL1500_.jpg",
+    "title": "Glucosamina Condroitina y MSM Colágeno con Ácido Hialurónico, Boswelia, Selenio y Zinc - 120 Comprimidos Glucosamin Complex Nutralie",
+    "price": "23,90€",
+    "link": "https://amzn.to/4a6zZZA",
+    "category": "hogar"
   }
 ]
