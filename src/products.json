@@ -1856,5 +1856,29 @@
     "price": "18,99€",
     "link": "https://amzn.to/4fslN0e",
     "category": "moda"
+  },
+  {
+    "id": 193,
+    "image": "https://m.media-amazon.com/images/I/51tFsp8tVyL._AC_SL1500_.jpg",
+    "title": "Tocobo Protector Solar En Barra Spf50 19g",
+    "price": "15,93€",
+    "link": "https://amzn.to/4wHhyne",
+    "category": "hogar"
+  },
+  {
+    "id": 194,
+    "image": "https://m.media-amazon.com/images/I/51zdLqgadJL._AC_SL1500_.jpg",
+    "title": "celimax Vita A Retinal Shot, Potenciador Reafirmante, Minimizador De Poros, Arrugas Y Líneas De Expresión, Para Una Piel Más Firme, 15 Ml",
+    "price": "14,00€",
+    "link": "https://amzn.to/3Ryz6TK",
+    "category": "hogar"
+  },
+  {
+    "id": 195,
+    "image": "https://m.media-amazon.com/images/I/61ZWA0m2RVL._AC_SL1500_.jpg",
+    "title": "Beauty of Joseon Aceite limpiador de ginseng (210 ml, 7,1 fl.oz.)",
+    "price": "17,44€",
+    "link": "https://amzn.to/4w34fxz",
+    "category": "hogat"
   }
 ]
