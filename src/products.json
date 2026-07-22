@@ -1888,5 +1888,21 @@
     "price": "26,24€",
     "link": "https://amzn.to/4bAN2Dr",
     "category": "libros"
+  },
+  {
+    "id": 197,
+    "image": "https://m.media-amazon.com/images/I/51P+NXR5tHL._AC_SL1000_.jpg",
+    "title": "Cecotec Plancha Ropa Vapor Fast-Furious 5010 Vital, Suela de Aluminio Turbo Slide, Vapor continuo de 55 g/min, Golpe de vapor de 200 g/min, Regulador de temperatura, Antical, Antigoteo, 2600 W [Clase de eficiencia energética A]",
+    "price": "26,90€",
+    "link": "https://amzn.to/3T5jYxJ",
+    "category": "hogar"
+  },
+  {
+    "id": 198,
+    "image": "https://m.media-amazon.com/images/I/61VramvBWBL._AC_SL1500_.jpg",
+    "title": "Amazon Basics Funda para Tabla de Planchar, Tamaño Estándar, Acolchado Grueso, Gris, 38.1 x 137.2 cm (Tabla de Planchar no incluida)",
+    "price": "13,74€",
+    "link": "https://amzn.to/4wWCFlQ",
+    "category": "hogar"
   }
 ]
