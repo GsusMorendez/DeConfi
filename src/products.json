@@ -1912,5 +1912,29 @@
     "price": "11,99€",
     "link": "https://amzn.to/45iWTKM",
     "category": "tecnologia"
+  },
+  {
+    "id": 200,
+    "image": "https://m.media-amazon.com/images/I/61x-PhFrt7L._SL1499_.jpg",
+    "title": "El ciclo troyano Vol. I: Los cantos ciprios",
+    "price": "10,39€",
+    "link": "https://amzn.to/4xFpq9v",
+    "category": "libros"
+  },
+  {
+    "id": 201,
+    "image": "https://m.media-amazon.com/images/I/71RuYZeDooL._SL1499_.jpg",
+    "title": "El ciclo troyano Vol. II: La caída de Ileón",
+    "price": "10,39€",
+    "link": "https://amzn.to/4wp1iH5",
+    "category": "libros"
+  },
+  {
+    "id": 202,
+    "image": "https://m.media-amazon.com/images/I/71ZN0NTbQ4L._SL1499_.jpg",
+    "title": "El ciclo troyano Vol. III: Los regresos",
+    "price": "10,39€",
+    "link": "https://amzn.to/4zd7CDY",
+    "category": "libros"
   }
 ]
